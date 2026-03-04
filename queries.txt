@@ -1,0 +1,544 @@
+Attached is the file review_papers.csv, which contains metadata for 217 different research papers.
+
+One of the columns in the file is named “Optimality criteria used”.
+
+This column includes the following values:
+
+	•	Maximum Likelihood
+	•	Bayesian Inference
+	•	Parsimony
+	•	Neighbor Joining
+	•	UPGMA
+	•	CGR (Chaos Game Representation)
+	•	Unknown
+	•	Maximum Likelihood, Bayesian Inference
+	•	Maximum Likelihood, Neighbor Joining
+	•	Maximum Likelihood, Parsimony
+	•	Neighbor Joining, UPGMA
+	•	Neighbor Joining, Parsimony
+
+I would like to create a bar plot (in black and white or grayscale) using Python and Pandas to show how many papers used each of the following methods:
+
+	•	Maximum Likelihood
+	•	Bayesian Inference
+	•	Parsimony
+	•	Neighbor Joining
+	•	UPGMA
+	•	CGR (Chaos Game Representation)
+	•	Unknown
+	•	Maximum Likelihood, Bayesian Inference
+	•	Maximum Likelihood, Neighbor Joining
+	•	Maximum Likelihood, Parsimony
+	•	Neighbor Joining, UPGMA
+	•	Neighbor Joining, Parsimony
+
+Additionally, please display the total count above each bar using a large font for both the numbers and text.
+
+Can you modify below code according above directions.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Attached is the file review_papers.csv, which contains metadata for 217 different research papers.
+
+One of the columns in the file is named “Branch support metrics”.
+
+This column includes the following values:
+
+	•	Bootstrap
+	•	Posterior Probabilities
+	•	Goodman Bremer
+	•	Unknown
+
+I would like to create a bar plot (grayscale) using Python and Pandas to show how many papers used each of the following methods:
+
+	•	Bootstrap
+	•	Posterior Probabilities
+	•	Goodman Bremer
+	•	Unknown
+
+Create the bar plot in ascending order. Additionally, please display the total count above each bar using a large font for both the numbers and text.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Attached is the file review_papers.csv, which contains metadata for 217 different research papers.
+
+One of the columns in the file is named “Type of data used.”
+
+This column contains the following values:
+
+	•	Nucleotides
+	•	Amino Acids
+	•	Unknown
+
+Some field use both values "Nucleotides and Amino Acids". 
+
+I would like to create a grayscale Venn diagram using Python and Pandas to show how many papers used each of the following methods:
+
+	•	Nucleotides
+	•	Amino Acids
+	•	Unknown
+
+If the field uses both Nucleotides and Amino Acids, please represent that accordingly in the Venn diagram.
+
+Additionally, include the total count in the diagram.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Attached is the file review_papers.csv, which contains metadata for 217 different research papers.
+
+One of the columns in the file is named “Single-gene analysis, Multi-gene analysis, or Whole genome analysis”.
+
+This column includes the following values:
+
+	•	Whole genome analysis
+	•	Single-gene analysis
+	•	Multi-gene analysis
+	•	Whole genome analysis, Single-gene analysis, Multi-gene analysis
+	•	Single-gene analysis, Multi-gene analysis 
+	•	Whole genome analysis, Single-gene analysis
+	•	Unknown
+
+I would like to create a bar plot (grayscale) using Python and Pandas to show how many papers used each of the following methods:
+
+	•	Whole genome analysis
+	•	Single-gene analysis
+	•	Multi-gene analysis
+	•	Whole genome analysis, Single-gene analysis, Multi-gene analysis
+	•	Single-gene analysis, Multi-gene analysis 
+	•	Whole genome analysis, Single-gene analysis
+	•	Unknown
+
+Create the bar plot in ascending order. Additionally, please display the total count above each bar using a large font for both the numbers and text.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+My file review_papers.csv contains metadata for 217 different research papers.
+
+One of the columns in the file is titled “Single-gene analysis, Multi-gene analysis, or Whole genome analysis.”
+
+This column contains the following values:
+
+	•	Whole genome analysis
+	•	Single-gene analysis
+	•	Multi-gene analysis
+	•   Unknown
+
+Some fields contain multiple values, such as:
+
+	•	Whole genome analysis, Single-gene analysis, Multi-gene analysis
+	•	Single-gene analysis, Multi-gene analysis
+	•	Whole genome analysis, Single-gene analysis
+
+I would like to create a grayscale Venn diagram using Python and Pandas to show how many papers used each of the following methods:
+
+	•	Whole genome analysis
+	•	Single-gene analysis
+	•	Multi-gene analysis
+	•   Unknown
+
+If a column field includes multiple values, please represent that appropriately in the Venn diagram.
+
+Additionally, include the total count in the diagram.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+My file review_papers.csv contains metadata for 217 different research papers.
+
+There are 5 columns in the file is titled as 
+
+• Data available online	
+• Data is accessible	
+• Data is current	
+• Data is interoperable	
+• Data is findable	
+• Data is reusable
+
+This column contains values either "Yes" or "No"
+
+If all the columns are "Yes" then the paper has followed F.A.I.R principles.
+
+I would like to create a grayscale bar plot as per the above condition using Python and Pandas to show how many papers followed F.A.I.R principles and
+how many did not.
+	
+Additionally, include the total count above each bar in the plot.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+My file review_papers.csv contains metadata for 217 different research papers.
+
+One of the columns in the file is titled “Rooted trees”
+	
+This column contains the following values either "Yes", "No" and "Unknown"
+
+I would like to create a grayscale bar plot using Python and Pandas to show how many papers are "Yes", "No" and "Unknown" for rooted trees.
+	
+Additionally, include the total count above each bar in the plot.
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Attached is the review_papers.csv file, which contains metadata for 217 different research papers.
+
+The file includes 7 columns, titled as follows:
+
+	•	Impact Factor
+	•	Data available online
+	•	Data is accessible
+	•	Data is current
+	•	Data is interoperable
+	•	Data is findable
+	•	Data is reusable
+
+The last six columns which are 
+
+	•	Data available online
+	•	Data is accessible
+	•	Data is current
+	•	Data is interoperable
+	•	Data is findable
+	•	Data is reusable
+	
+contain values of either “Yes” or “No”.
+
+If all six columns have the value “Yes”, it means the research paper follows the F.A.I.R. principles.
+
+If any one of these columns has the value “No”, then the research paper does not follow the F.A.I.R. principles.
+
+The “Impact Factor” column contains almost numeric values indicating the impact factor of the journal in which the paper was published. One journal does 
+not have an impact factor and has the value as "Unknown". Ignore this value string value.
+
+Below is the python code which shows how many papers followed F.A.I.R principles
+
+# F.A.I.R. Compliance
+
+################################################################################
+
+import os
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Set seaborn style for all plots
+sns.set(style="white")  # Ensures white background without gridlines
+
+# Load the CSV file
+file_path = "review_papers.csv"
+df = pd.read_csv(file_path)
+
+# List of FAIR principle columns
+fair_columns = [
+    'Data available online',
+    'Data is accessible',
+    'Data is current',
+    'Data is interoperable',
+    'Data is findable',
+    'Data is reusable'
+]
+
+# Normalize: strip whitespace and convert to lowercase
+df_clean = df.copy()
+for col in fair_columns:
+    df_clean[col] = df_clean[col].astype(str).str.strip().str.lower()
+
+# Check if all FAIR principles are 'yes'
+df_clean['Follows FAIR'] = df_clean[fair_columns].apply(
+    lambda row: all(val == 'yes' for val in row),
+    axis=1
+)
+
+# Count how many follow and how many do not
+counts = df_clean['Follows FAIR'].value_counts().rename({True: 'Yes', False: 'No'})
+
+# Create a bar plot with white background and visible border
+fig, ax = plt.subplots(figsize=(4, 4), facecolor='white')
+ax.set_facecolor('white')
+
+# Plot bars
+bars = ax.bar(counts.index, counts.values, color='gray')
+
+# Add count labels above each bar
+for bar in bars:
+    height = bar.get_height()
+    ax.text(
+        bar.get_x() + bar.get_width() / 2,
+        height + 0.01 * max(counts.values),
+        f'{int(height)}',
+        ha='center',
+        va='bottom',
+        fontsize=14,
+        color='black'
+    )
+
+# Customize labels and title
+ax.set_xlabel('F.A.I.R. compliance', fontsize=18, color='black')
+ax.set_ylabel('Number of Papers', fontsize=18, color='black')
+ax.tick_params(axis='x', labelrotation=0, labelsize=14, colors='black')
+ax.tick_params(axis='y', labelsize=14, colors='black')
+
+# Remove grid lines
+plt.grid(False)
+
+# Show only X and Y axes (bottom and left spines), hide others
+ax = plt.gca()
+ax.set_facecolor('white')  # Set background to white
+ax.spines['top'].set_visible(False)
+ax.spines['right'].set_visible(False)
+ax.spines['left'].set_visible(True)
+ax.spines['bottom'].set_visible(True)
+
+# Display the plot
+plt.tight_layout()
+plt.show()
+
+Using above code write a Python code using pandas to create a grayscale bar plot in ascending order, showing the average impact factor of journals that have followed the F.A.I.R. principles and those that have not.
+Make the background of the plot white and include the average total count of impact factor above each bar in the plot.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Attached is the review_papers.csv file, which contains metadata for 217 different research papers.
+
+The file includes 2 columns, titled as follows:
+
+	•	Impact Factor
+	•	Outgroup
+
+Column "Outgroup" contain values of either “Yes” or “No”.
+
+If the value is "Yes" and then research paper has used the outgroup if the value is "No" then research paper hasn't used the ougroup.
+
+The “Impact Factor” column contains almost numeric values indicating the impact factor of the journal in which the paper was published. One journal does 
+not have an impact factor and has the value as "Unknown". Ignore this value string value.
+
+Below is the python code which shows how many research papers have used the outgroup and how many hasn't.
+
+# Outgroup Usage
+
+################################################################################
+
+import os
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Set seaborn style
+sns.set_theme(style="white")
+
+# Load the CSV file
+file_path = "review_papers.csv"
+df = pd.read_csv(file_path)
+
+# Count the occurrences of 'Yes' and 'No' in the 'Outgroup selection' column
+outgroup_counts = df['Outgroup selection'].value_counts()
+yes_count = outgroup_counts.get('Yes', 0)
+no_count = outgroup_counts.get('No', 0)
+
+# Print the counts
+print(f"Number of papers with Outgroup selection 'Yes': {yes_count}")
+print(f"Number of papers with Outgroup selection 'No': {no_count}")
+
+# Create a bar plot
+plt.figure(figsize=(4, 4))
+ax = plt.gca()
+bars = ax.bar(outgroup_counts.index, outgroup_counts.values, color='gray')
+
+plt.xlabel('Outgroup', fontsize=18)  # Changed label
+plt.ylabel('Number of Papers', fontsize=18)  # Changed label
+plt.xticks(rotation=0, fontsize=14)
+plt.yticks(fontsize=14)
+
+# Add value labels on top of the bars
+for i, count in enumerate(outgroup_counts):
+    plt.text(i, count + 0.5, str(count), ha='center', va='bottom', fontsize=14, color='black')
+
+# Remove grid lines
+plt.grid(False)
+
+# Show only X and Y axes
+ax.set_facecolor('white')  # Set background to white
+ax.spines['top'].set_visible(False)
+ax.spines['right'].set_visible(False)
+ax.spines['left'].set_visible(True)
+ax.spines['bottom'].set_visible(True)
+
+# Display the plot
+plt.tight_layout()
+plt.show()
+
+Using above code write a Python code using pandas to create a grayscale bar plot in ascending order, showing the average impact factor of journals that have used outgroup and average impact score of those who haven't
+Make the background of the plot white and include the average total count of impact factor above each bar in the plot.
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Attached is the review_papers.csv file, which contains metadata for 217 different research papers.
+
+The file includes 2 columns, titled as follows:
+
+	•	Impact Factor
+	•	Root
+
+Column "Root" contain values of either “Yes”, “No” or "Unknown"
+
+If the value is "Yes" and then research paper has used the root, if the value is "No" then research paper hasn't used the root and if the value is "Unknown" then research paper has not given clear information if they have used the root. 
+
+The “Impact Factor” column contains almost numeric values indicating the impact factor of the journal in which the paper was published. One journal does 
+not have an impact factor and has the value as "Unknown". Ignore this string value.
+
+Below is the python code which shows how many research papers have used the outgroup and how many hasn't.
+
+# Root Usage
+
+################################################################################
+
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Set seaborn style with white background
+sns.set_style("white")
+
+# Load the CSV file
+file_path = "review_papers.csv"
+df = pd.read_csv(file_path)
+
+# Count the occurrences of each value in the 'Rooted trees' column
+counts = df['Rooted trees'].value_counts().reindex(["Yes", "No", "Unknown"], fill_value=0)
+
+# Sort in descending order
+counts = counts.sort_values(ascending=False)
+
+# Create a grayscale bar plot with white background
+fig, ax = plt.subplots(figsize=(4, 4), facecolor='white')  # Set figure background
+ax.set_facecolor('white')  # Set axes background
+
+bars = ax.bar(counts.index, counts.values, color='gray')
+
+# Add total count labels on top of each bar
+for bar in bars:
+    height = bar.get_height()
+    ax.text(
+        bar.get_x() + bar.get_width() / 2,
+        height + 0.01 * max(counts.values),
+        f'{int(height)}',
+        ha='center',
+        va='bottom',
+        fontsize=14,
+        color='black'
+     )
+
+# Customize the plot
+ax.set_xlabel('Root', fontsize=18, color='black')
+ax.set_ylabel('Number of Papers', fontsize=18, color='black')
+ax.tick_params(axis='x', labelrotation=0, labelsize=14, colors='black')
+ax.tick_params(axis='y', labelsize=14, colors='black')
+plt.tight_layout()
+
+# Remove grid lines
+plt.grid(False)
+
+# Show only X and Y axes
+ax = plt.gca()
+ax.set_facecolor('white')  # Set background to white
+ax.spines['top'].set_visible(False)
+ax.spines['right'].set_visible(False)
+ax.spines['left'].set_visible(True)
+ax.spines['bottom'].set_visible(True)
+
+# Display the plot
+plt.tight_layout()
+plt.show()
+
+Using above code write a Python code using pandas to create a grayscale bar plot in ascending order, showing the average impact factor of journals that have used root, average impact score of those who haven't and average impact score of those who have "Unknown" values.
+Make the background of the plot white and include the average total count of impact factor above each bar in the plot.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Again use the same  review_papers.csv file. It contains metadata for 217 different research papers.
+
+The file includes 2 columns, titled as follows:
+
+	•	Impact Factor
+	•	Usage of Gene annotation
+
+Column "Usage of Gene annotation" contain values of either “Yes”, “No” or "Unknown"
+
+If the value is "Yes" and then research paper has used the Gene annotation, if the value is "No" then research paper hasn't used the Gene annotation and if the value is "Unknown" then research paper has not given clear information if they have used the Gene annotation. 
+
+The “Impact Factor” column contains almost numeric values indicating the impact factor of the research journal in which the paper was published. One journal does not have an impact factor and has the value as "Unknown". Ignore this string value.
+
+Below is the python code which shows how many research papers have used the Gene annotation, how many hasn't and how many have "Unknown" values.
+
+# Usage of Gene annotation
+
+################################################################################
+
+import os
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Set seaborn style with white background
+sns.set_style("white")
+
+# Load the CSV file
+file_path = "review_papers.csv"
+df = pd.read_csv(file_path)
+
+# Count the occurrences of each value in the 'Usage of Gene annotation' column
+annotation_counts = df['Usage of Gene annotation'].value_counts()
+
+# Ensure all categories are included
+categories = ['Yes', 'No', 'Unknown']
+annotation_counts = annotation_counts.reindex(categories, fill_value=0)
+
+# Manually adjust counts to known values
+annotation_counts['Yes'] = 29
+annotation_counts['No'] = 187
+annotation_counts['Unknown'] = 1
+
+# Sort counts in descending order
+annotation_counts = annotation_counts.sort_values(ascending=False)
+
+# Verify the counts
+print("Adjusted counts (sorted):")
+print(annotation_counts)
+print("Total papers:", annotation_counts.sum())
+
+# Create a bar plot
+plt.figure(figsize=(4, 4))
+bars = annotation_counts.plot(kind='bar', color='gray')
+plt.xlabel('Gene Annotation', fontsize=18)
+plt.ylabel('Number of Papers', fontsize=18)
+plt.xticks(rotation=0, fontsize=14)
+plt.yticks(fontsize=14)
+
+
+# Add the numbers on top of each bar
+for bar in bars.patches:
+    height = bar.get_height()
+    plt.text(
+        bar.get_x() + bar.get_width() / 2,
+        height + 2,
+        f'{int(height)}',
+        ha='center',
+        va='bottom',
+        fontsize=14,
+        color='black'
+     )
+
+# Remove grid lines
+plt.grid(False)
+
+# Show only X and Y axes (bottom and left spines), hide others
+ax = plt.gca()
+ax.set_facecolor('white')  # Set background to white
+ax.spines['top'].set_visible(False)
+ax.spines['right'].set_visible(False)
+ax.spines['left'].set_visible(True)
+ax.spines['bottom'].set_visible(True)
+
+# Display the plot
+plt.tight_layout()
+plt.show()
+
+Using above code write a Python code using pandas to create a grayscale bar plot in ascending order, showing the average impact factor of journals that have used Gene annotation, average impact score of those who haven't and average impact score of those who have "Unknown" values.
+Make the background of the plot white and include the average total count of impact factor above each bar in the plot.
+
+
