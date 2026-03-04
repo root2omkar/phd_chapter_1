@@ -1,0 +1,998 @@
+He, W. T., Ji, X., He, W., Dellicour, S., Wang, S., Li, G., Zhang, L., Gilbert, M., Zhu, H., Xing, G., Veit, M., Huang, Z., Han, G. Z., Huang, Y., Suchard, M. A., Baele, G., Lemey, P., & Su, S. (2020). Genomic epidemiology, evolution, and transmission dynamics of porcine deltacoronavirus. Molecular Biology and Evolution, 37(9), 2641‚Äì2654. https://doi.org/10.1093/molbev/msaa117
+Novikov, D., Knyazev, S., Grinshpon, M., Icer, P., Skums, P., & Zelikovsky, A. (2021). Scalable reconstruction of SARS-CoV-2 phylogeny with recurrent mutations. Journal of Computational Biology, 28(11), 1130‚Äì1141. https://doi.org/10.1089/cmb.2021.0306
+He, W. T., Bollen, N., Xu, Y., Zhao, J., Dellicour, S., Yan, Z., Gong, W., Zhang, C., Zhang, L., Lu, M., Lai, A., Suchard, M. A., Ji, X., Tu, C., Lemey, P., Baele, G., & Su, S. (2022). Phylogeography reveals association between swine trade and the spread of porcine epidemic diarrhea virus in China and across the world. Molecular Biology and Evolution, 39(2), Article msab364. https://doi.org/10.1093/molbev/msab364
+De Maio, N., Kalaghatgi, P., Turakhia, Y., Corbett-Detig, R., Minh, B. Q., & Goldman, N. (2023). Maximum likelihood pandemic-scale phylogenetics. Nature Genetics, 55(5), 746‚Äì752. https://doi.org/10.1038/s41588-023-01368-0
+Nikolaidis, M., Papakyriakou, A., Chlichlia, K., Markoulatos, P., Oliver, S. G., & Amoutzias, G. D. (2022). Comparative analysis of SARS-CoV-2 variants of concern, including Omicron, highlights their common and distinctive amino acid substitution patterns, especially at the spike ORF. Viruses, 14(4), Article 707. https://doi.org/10.3390/v14040707
+Copp√©e, R., Blanquart, F., Jary, A., Leducq, V., Ferr√©, V. M., Franco Yusti, A. M., Daniel, L., Charpentier, C., Lebourgeois, S., Zafilaza, K., Calvez, V., Descamps, D., Marcelin, A. G., Visseaux, B., & Bridier-Nahmias, A. (2023). Phylodynamics of SARS-CoV-2 in France, Europe, and the world in 2020. eLife, 12, Article e82538. https://doi.org/10.7554/eLife.82538
+Jalal, D., Elzayat, M. G., El-Shqanqery, H. E., Diab, A. A., Yahia, A., Samir, O., Bakry, U., Amer, K., ElNaqeeb, M., Hassan, W., Talat, H. S., Farawela, H. M., Hamdy, M. S., Soliman, M. S., El Sissy, M. H., Ezzelarab, M. H., El Khateeb, S. M., Soliman, L. H., Haddad, S. E., Hatem, A., Ismail, M. S., Hossam, M., Mansour, T., Shalaby, L., Soliman, S., Hassan, R., Hammad, M., Abdo, I., Magdeldin, S., ElHaddad, A., Abouelnaga, S., & Sayed, A. A. (2022). SARS-CoV-2 genome variations and evolution patterns in Egypt: A multi-center study. Scientific Reports, 12(1), Article 14511. https://doi.org/10.1038/s41598-022-18644-4
+Wang, L., Didelot, X., Bi, Y., & Gao, G. F. (2022). SARS-CoV-2 transmissibility compared between variants of concern and vaccination status. Briefings in Bioinformatics, 23(2), Article bbab594. https://doi.org/10.1093/bib/bbab594
+Fournier, P. E., Colson, P., Levasseur, A., Devaux, C. A., Gautret, P., Bedotto, M., Delerce, J., Brechard, L., Pinault, L., Lagier, J. C., Fenollar, F., & Raoult, D. (2021). Emergence and outcomes of the SARS-CoV-2 'Marseille-4' variant. International Journal of Infectious Diseases, 106, 228‚Äì236. https://doi.org/10.1016/j.ijid.2021.03.068
+Aliabadi, N., Jamaliduost, M., Pouladfar, G., Marandi, N. H., & Ziyaeyan, M. (2023). Characterization and phylogenetic analysis of Iranian SARS-CoV-2 genomes: A phylogenomic study. Health Science Reports, 6(1), Article e1052. https://doi.org/10.1002/hsr2.1052
+Awoyelu, E. H., Oladipo, E. K., Adetuyi, B. O., Senbadejo, T. Y., Oyawoye, O. M., & Oloke, J. K. (2020). Phyloevolutionary analysis of SARS-CoV-2 in Nigeria. New Microbes and New Infections, 36, Article 100717. https://doi.org/10.1016/j.nmni.2020.100717
+Li, F., Liang, Z., Cui, S., Lv, B., Feng, Z., Xu, H., Jia, L., Yang, P., Wang, Q., Pan, Y., & Zhang, D. (2022). Importation of SARS-CoV-2 Omicron variant in Beijing, China. Biosafety and Health, 4(3), 150‚Äì153. https://doi.org/10.1016/j.bsheal.2022.04.003
+Ignatieva, A., Hein, J., & Jenkins, P. A. (2022). Ongoing recombination in SARS-CoV-2 revealed through genealogical reconstruction. Molecular Biology and Evolution, 39(2), Article msac028. https://doi.org/10.1093/molbev/msac028
+Alkhatib, M., Svicher, V., Salpini, R., Ambrosio, F. A., Bellocchi, M. C., Carioti, L., Piermatteo, L., Scutari, R., Costa, G., Artese, A., Alcaro, S., Shafer, R., & Ceccherini-Silberstein, F. (2021). SARS-CoV-2 variants and their relevant mutational profiles: Update Summer 2021. Microbiology Spectrum, 9(3), Article e0109621. https://doi.org/10.1128/Spectrum.01096-21
+Dorji, T., Dorji, K., Wangchuk, T., Pelki, T., & Gyeltshen, S. (2023). Genetic diversity and evolutionary patterns of SARS-CoV-2 among the Bhutanese population during the pandemic. Osong Public Health and Research Perspectives, 14(6), 494‚Äì507. https://doi.org/10.24171/j.phrp.2023.0209
+Everett, J., Hokama, P., Roche, A. M., Reddy, S., Hwang, Y., Kessler, L., Glascock, A., Li, Y., Whelan, J. N., Weiss, S. R., Sherrill-Mix, S., McCormick, K., Whiteside, S. A., Graham-Wooten, J., Khatib, L. A., Fitzgerald, A. S., Collman, R. G., & Bushman, F. (2021). SARS-CoV-2 genomic variation in space and time in hospitalized patients in Philadelphia. mBio, 12(1), Article e03456-20. https://doi.org/10.1128/mBio.03456-20
+Forster, P., & Forster, L. (2020). Errors in tracing coronavirus SARS-CoV-2 transmission using a maximum likelihood tree. Comment on "A snapshot of SARS-CoV-2 genome availability up to April 2020 and its implications: Data analysis". JMIR Public Health and Surveillance, 6(4), Article e23542. https://doi.org/10.2196/23542
+Ghosh, N., Saha, I., Nandi, S., & Sharma, N. (2022). Characterisation of SARS-CoV-2 clades based on signature SNPs unveils continuous evolution. Methods, 203, 282‚Äì296. https://doi.org/10.1016/j.ymeth.2021.09.005
+Morel, B., Barbera, P., Czech, L., Bettisworth, B., H√ºbner, L., Lutteropp, S., Serdari, D., Kostaki, E. G., Mamais, I., Kozlov, A. M., Pavlidis, P., Paraskevis, D., & Stamatakis, A. (2021). Phylogenetic analysis of SARS-CoV-2 data is difficult. Molecular Biology and Evolution, 38(5), 1777‚Äì1791. https://doi.org/10.1093/molbev/msaa314
+Cacciabue, M., Aguilera, P., Gismondi, M. I., & Taboga, O. (2022). Covidex: An ultrafast and accurate tool for SARS-CoV-2 subtyping. Infection, Genetics and Evolution, 99, Article 105261. https://doi.org/10.1016/j.meegid.2022.105261
+Pavia, G., Quirino, A., Marascio, N., Veneziano, C., Longhini, F., Bruni, A., Garofalo, E., Pantanella, M., Manno, M., Gigliotti, S., Giancotti, A., Barreca, G. S., Branda, F., Torti, C., Rotundo, S., Lionello, R., La Gamba, V., Berardelli, L., Gull√¨, S. P., Trecarichi, E. M., Russo, A., Palmieri, C., De Marco, C., Viglietto, G., Casu, M., Sanna, D., Ciccozzi, M., Scarpa, F., & Matera, G. (2024). Persistence of SARS-CoV-2 infection and viral intra- and inter-host evolution in COVID-19 hospitalized patients. Journal of Medical Virology, 96(6), Article e29708. https://doi.org/10.1002/jmv.29708
+Lee, K., Park, K., Sung, H., & Kim, M.-N. (2024). Phylogenetic lineage dynamics of global parainfluenza virus type 3 post-COVID-19 pandemic. mSphere, 9(4), Article e0062423. https://doi.org/10.1128/msphere.00624-23
+Zhu, M., Shen, J., Zeng, Q., Tan, J. W., Kleepbua, J., Chew, I., Law, J. X., Chew, S. P., Tangathajinda, A., Latthitham, N., & Li, L. (2021). Molecular phylogenesis and spatiotemporal spread of SARS-CoV-2 in Southeast Asia. Frontiers in Public Health, 9, Article 685315. https://doi.org/10.3389/fpubh.2021.685315
+Pipes, L., Chen, Z., Afanaseva, S., & Nielsen, R. (2022). Estimating the relative proportions of SARS-CoV-2 haplotypes from wastewater samples. Cell Reports Methods, 2(10), Article 100313. https://doi.org/10.1016/j.crmeth.2022.100313
+Balakrishnan, K. N., Yew, C. W., Chong, E. T. J., Daim, S., Mohamad, N. E., Rodrigues, K., & Lee, P. C. (2023). Timeline of SARS-CoV-2 transmission in Sabah, Malaysia: Tracking the molecular evolution. Pathogens, 12(8), Article 1047. https://doi.org/10.3390/pathogens12081047
+Hassan, M. M., Hussain, M. A., Kambal, S., Elshikh, A. A., Gendeel, O. R., Ahmed, S. A., Altayeb, R. A., Muhajir, A. M., & Mohamed, S. B. (2020). NeoCoV is closer to MERS-CoV than SARS-CoV. Infectious Diseases, 13, Article 1178633720930711. https://doi.org/10.1177/1178633720930711
+Abdullaev, A., Abdurakhimov, A., Mirakbarova, Z., Ibragimova, S., Tsoy, V., Nuriddinov, S., Dalimova, D., Turdikulova, S., & Abdurakhmonov, I. (2022). Genome sequence diversity of SARS-CoV-2 obtained from clinical samples in Uzbekistan. PLoS ONE, 17(6), Article e0270314. https://doi.org/10.1371/journal.pone.0270314
+Serwin, K., Ossowski, A., Szargut, M., Cytacka, S., Urbańska, A., Majchrzak, A., Niedźwiedź, A., Czerska, E., Pawińska-Matecka, A., Gołob, J., & Parczewski, M. (2021). Molecular evolution and epidemiological characteristics of SARS-CoV-2 in (Northwestern) Poland. Viruses, 13(7), Article 1295. https://doi.org/10.3390/v13071295
+Elizondo, V., Harkins, G. W., Mabvakure, B., Smidt, S., Zappile, P., Marier, C., Maurano, M. T., Perez, V., Mazza, N., Beloso, C., Ifran, S., Fernandez, M., Santini, A., Perez, V., Estevez, V., Nin, M., Manrique, G., Perez, L., Ross, F., Boschi, S., Zubillaga, M. N., Balleste, R., Dellicour, S., Heguy, A., & Duerr, R. (2021). SARS-CoV-2 genomic characterization and clinical manifestation of the COVID-19 outbreak in Uruguay. Emerging Microbes & Infections, 10(1), 51‚Äì65. https://doi.org/10.1080/22221751.2020.1863747
+Mandal, M., & Mandal, S. (2023). Spatiotemporal genome diversity of SARS-CoV-2 in wastewater: A two-year global epidemiological study. Environmental Monitoring and Assessment, 196(1), Article 44. https://doi.org/10.1007/s10661-023-12228-z
+Nasir, A., Bukhari, A. R., Trov√£o, N. S., Thielen, P. M., Kanji, A., Mahmood, S. F., Ghanchi, N. K., Ansar, Z., Merritt, B., Mehoke, T., Razzak, S. A., Syed, M. A., Shaikh, S. R., Wassan, M., Aamir, U. B., Baele, G., Rasmussen, Z., Spiro, D., Hasan, R., & Hasan, Z. (2022). Evolutionary history and introduction of SARS-CoV-2 Alpha VOC/B.1.1.7 in Pakistan through international travelers. Virus Evolution, 8(1), Article veac020. https://doi.org/10.1093/ve/veac020
+Tordoff, D. M., Greninger, A. L., Roychoudhury, P., Shrestha, L., Xie, H., Jerome, K. R., Breit, N., Huang, M. L., Famulare, M., & Herbeck, J. T. (2021). Phylogenetic estimates of SARS-CoV-2 introductions into Washington State. The Lancet Regional Health - Americas, 1, Article 100018. https://doi.org/10.1016/j.lana.2021.100018
+Paulino-Ram√≠rez, R., L√≥pez, P., Mueses, S., Cuevas, P., Jabier, M., & Rivera-Amill, V. (2023). Genomic surveillance of SARS-CoV-2 variants in the Dominican Republic and emergence of a local lineage. International Journal of Environmental Research and Public Health, 20(8), Article 5503. https://doi.org/10.3390/ijerph20085503
+Zhukova, A., Hecht, F., Maday, Y., & Gascuel, O. (2023). Fast and accurate maximum-likelihood estimation of multi-type birth-death epidemiological models from phylogenetic trees. Systematic Biology, 72(6), 1387‚Äì1402. https://doi.org/10.1093/sysbio/syad059
+Sevillano, G., Ortega-Paredes, D., Loaiza, K., Zurita-Salinas, C., & Zurita, J. (2021). Evidence of SARS-CoV-2 reinfection within the same clade in Ecuador: A case study. International Journal of Infectious Diseases, 108, 53‚Äì56. https://doi.org/10.1016/j.ijid.2021.04.073
+Zimerman, R. A., Ferrareze, P. A. G., Cadegiani, F. A., Wambier, C. G., Fonseca, D. D. N., de Souza, A. R., Goren, A., Rotta, L. N., Ren, Z., & Thompson, C. E. (2022). Comparative genomics and characterization of SARS-CoV-2 P.1 (Gamma) variant of concern from Amazonas, Brazil. Frontiers in Medicine, 9, Article 806611. https://doi.org/10.3389/fmed.2022.806611
+Ahmed, J. Q., & Maulud, S. Q. (2022). Complete genomic characterisation and mutation patterns of Iraqi SARS-CoV-2 isolates. Diagnostics, 13(1), Article 8. https://doi.org/10.3390/diagnostics13010008
+Dhanasekaran, V., Edwards, K. M., Xie, R., Gu, H., Adam, D. C., Chang, L. D. J., Cheuk, S. S. Y., Gurung, S., Krishnan, P., Ng, D. Y. M., Liu, G. Y. Z., Wan, C. K. C., Cheng, S. S. M., Tsang, D. N. C., Cowling, B. J., Peiris, M., & Poon, L. L. M. (2021). Air travel-related outbreak of multiple SARS-CoV-2 variants. Journal of Travel Medicine, 28(8), Article taab149. https://doi.org/10.1093/jtm/taab149
+Siqueira, J. D., Goes, L. R., Alves, B. M., de Carvalho, P. S., Cicala, C., Arthos, J., Viola, J. P. B., de Melo, A. C., & Soares, M. A. (2021). SARS-CoV-2 genomic analyses in cancer patients reveal elevated intrahost genetic diversity. Virus Evolution, 7(1), Article veab013. https://doi.org/10.1093/ve/veab013
+Middleton, C., & Kubatko, L. (2023). Assessment of positive selection across SARS-CoV-2 variants via maximum likelihood. PLoS ONE, 18(9), Article e0291271. https://doi.org/10.1371/journal.pone.0291271
+Wertheim, J. O., Steel, M., & Sanderson, M. J. (2022). Accuracy in near-perfect virus phylogenies. Systematic Biology, 71(2), 426‚Äì438. https://doi.org/10.1093/sysbio/syab069
+Tokgun, O., Caliskan, A., Coskun, C., Tokgun, P. E., & Akca, H. (2021). Whole genome sequencing and phylogenetic analysis of SARS-CoV-2 strains in Turkey. Journal of Infection in Developing Countries, 15(4), 470‚Äì477. https://doi.org/10.3855/jidc.14560
+D√≠ez-Fuertes, F., Iglesias-Caballero, M., Garc√≠a-P√©rez, J., Monz√≥n, S., Jim√©nez, P., Varona, S., Cuesta, I., Zaballos, √Å., Jim√©nez, M., Checa, L., Pozo, F., P√©rez-Olmeda, M., Thomson, M. M., Alcam√≠, J., & Casas, I. (2021). A founder effect led early SARS-CoV-2 transmission in Spain. Journal of Virology, 95(3), Article e01583-20. https://doi.org/10.1128/JVI.01583-20
+Afrin, S. Z., Islam, M. T., Paul, S. K., Kobayashi, N., & Parvin, R. (2022). Dynamics of SARS-CoV-2 variants of concern (VOC) in Bangladesh during the first half of 2021. Virology, 565, 29‚Äì37. https://doi.org/10.1016/j.virol.2021.10.005
+Jary, A., Leducq, V., Malet, I., Marot, S., Klement-Frutos, E., Teyssou, E., Souli√©, C., Abdi, B., Wirden, M., Pourcher, V., Caumes, E., Calvez, V., Burrel, S., Marcelin, A. G., & Boutolleau, D. (2020). Evolution of viral quasispecies during SARS-CoV-2 infection. Clinical Microbiology and Infection, 26(11), 1560.e1‚Äì1560.e4. https://doi.org/10.1016/j.cmi.2020.07.032
+Rahman, M. S., Hoque, M. N., Chowdhury, S. R., Siddique, M. M., Islam, O. K., Galib, S. M., Islam, M. T., & Hossain, M. A. (2023). Temporal dynamics and fatality of SARS-CoV-2 variants in Bangladesh. Health Science Reports, 6(4), Article e1209. https://doi.org/10.1002/hsr2.1209
+Fiaz, N., Zahoor, I., Saima, S., & Basheer, A. (2022). Genomic landscape of alpha-variant of SARS-CoV-2 circulated in Pakistan. PLoS ONE, 17(12), Article e0276171. https://doi.org/10.1371/journal.pone.0276171
+Prosperi, M., Rife, B., Marini, S., & Salemi, M. (2022). Transmission cluster characteristics of global, regional, and lineage-specific SARS-CoV-2 phylogenies. IEEE International Conference on Bioinformatics and Biomedicine Workshops, 2022, 2940‚Äì2944. https://doi.org/10.1109/bibm55620.2022.9995364
+Colson, P., Levasseur, A., Delerce, J., Pinault, L., Dudouet, P., Devaux, C., Fournier, P. E., La Scola, B., Lagier, J. C., & Raoult, D. (2021). Spreading of a new SARS-CoV-2 N501Y spike variant in a new lineage. Clinical Microbiology and Infection, 27(9), 1352.e1‚Äì1352.e5. https://doi.org/10.1016/j.cmi.2021.05.006
+Kandeel, M., Mohamed, M. E. M., Abd El-Lateef, H. M., Venugopala, K. N., & El-Beltagi, H. S. (2022). Omicron variant genome evolution and phylogenetics. Journal of Medical Virology, 94(4), 1627‚Äì1632. https://doi.org/10.1002/jmv.27515
+Khetran, S. R., & Mustafa, R. (2023). Mutations of SARS-CoV-2 structural proteins in the Alpha, Beta, Gamma, and Delta variants: Bioinformatics analysis. JMIR Bioinformatics and Biotechnology, 4, Article e43906. https://doi.org/10.2196/43906
+Jolly, B., & Scaria, V. (2021). Computational analysis and phylogenetic clustering of SARS-CoV-2 genomes. Bio-Protocol, 11(8), Article e3999. https://doi.org/10.21769/BioProtoc.3999
+Hong, S. L., Lemey, P., Suchard, M. A., & Baele, G. (2021). Bayesian phylogeographic analysis incorporating predictors and individual travel histories in BEAST. Current Protocols, 1(4), Article e98. https://doi.org/10.1002/cpz1.98
+Laha, S., Chakraborty, J., Das, S., Manna, S. K., Biswas, S., & Chatterjee, R. (2020). Characterizations of SARS-CoV-2 mutational profile, spike protein stability and viral transmission. Infection, Genetics and Evolution, 85, Article 104445. https://doi.org/10.1016/j.meegid.2020.104445
+Li, T., Liu, D., Yang, Y., Guo, J., Feng, Y., Zhang, X., Cheng, S., & Feng, J. (2020). Phylogenetic supertree reveals detailed evolution of SARS-CoV-2. Scientific Reports, 10(1), Article 22366. https://doi.org/10.1038/s41598-020-79484-8
+Dyrdak, R., Hodcroft, E. B., Broddesson, S., Grabbe, M., Franklin, H., Gissl√©n, M., Holm, M. E., Lindh, M., Nederby-√ñhd, J., Ringlander, J., Sundqvist, M., Neher, R. A., & Albert, J. (2024). Early unrecognised SARS-CoV-2 introductions shaped the first pandemic wave, Sweden, 2020. Eurosurveillance, 29(41), Article 2400021. https://doi.org/10.2807/1560-7917.ES.2024.29.41.2400021
+Townsend, J. P., Hassler, H. B., Wang, Z., Miura, S., Singh, J., Kumar, S., Ruddle, N. H., Galvani, A. P., & Dornburg, A. (2021). The durability of immunity against reinfection by SARS-CoV-2: A comparative evolutionary study. The Lancet Microbe, 2(12), e666‚Äìe675. https://doi.org/10.1016/S2666-5247(21)00219-6
+McBroome, J., Thornlow, B., Hinrichs, A. S., Kramer, A., De Maio, N., Goldman, N., Haussler, D., Corbett-Detig, R., & Turakhia, Y. (2021). A daily-updated database and tools for comprehensive SARS-CoV-2 mutation-annotated trees. Molecular Biology and Evolution, 38(12), 5819‚Äì5824. https://doi.org/10.1093/molbev/msab264
+Thind, A. S., & Sinha, S. (2023). Using chaos-game-representation for analysing the SARS-CoV-2 lineages, newly emerging strains and recombinants. Current Genomics, 24(3), 187‚Äì195. https://doi.org/10.2174/0113892029264990231013112156
+Hare, D., Meaney, C., Powell, J., Slevin, B., O'Brien, B., Power, L., O'Connell, N. H., De Gascun, C. F., Dunne, C. P., & Stapleton, P. J. (2022). Repeated transmission of SARS-CoV-2 in an overcrowded Irish emergency department elucidated by whole-genome sequencing. Journal of Hospital Infection, 126, 1‚Äì9. https://doi.org/10.1016/j.jhin.2022.04.015
+Al-Mankhee, A. A., Moatasim, Y., El Taweel, A., Gomaa, M., Rabiee, O. A., Gado, M. M., Barakat, A. B., Ali, M. A., & El-Shesheny, R. (2024). Genomic diversity and evolution of identified SARS-CoV-2 variants in Iraq. Pathogens, 13(12), Article 1051. https://doi.org/10.3390/pathogens13121051
+Almalki, S. S. R., Izhari, M. A., Alyahyawi, H. E., Alatawi, S. K., Klufah, F., Ahmed, W. A. M., & Alharbi, R. (2023). Mutational analysis of circulating Omicron SARS-CoV-2 lineages in the Al-Baha region of Saudi Arabia. Journal of Multidisciplinary Healthcare, 16, 2117‚Äì2136. https://doi.org/10.2147/JMDH.S419859
+McLaughlin, A., Montoya, V., Miller, R. L., Mordecai, G. J., Canadian COVID-19 Genomics Network (CanCOGen) Consortium, Worobey, M., Poon, A. F. Y., & Joy, J. B. (2022). Genomic epidemiology of the first two waves of SARS-CoV-2 in Canada. eLife, 11, Article e73896. https://doi.org/10.7554/eLife.73896
+Delaye, L. (2023). CurSa: Scripts to curate metadata and sample genomes from GISAID for analysis and display in nextstrain and microreact. Biological Methods and Protocols, 8(1), Article bpad007. https://doi.org/10.1093/biomethods/bpad007
+Mavian, C., Marini, S., Prosperi, M., & Salemi, M. (2020). Authors' reply to: Errors in tracing coronavirus SARS-CoV-2 transmission using a maximum likelihood tree. Comment on "A snapshot of SARS-CoV-2 genome availability up to April 2020 and its implications: Data analysis". JMIR Public Health and Surveillance, 6(4), Article e24661. https://doi.org/10.2196/24661
+Liu, H., Li, Q., Xiang, Y., Li, H., Liu, K., Du, X., Yang, C., Liu, H., Shi, M., Hu, X., Wang, H., Zhang, X., Li, X., Tian, S., Bao, R., Wang, L., Qiu, S., & Song, H. (2022). An outbreak of acute respiratory disease caused by HAdV-55 in Beijing, China, 2020. Journal of Medical Virology, 94(12), 6111‚Äì6115. https://doi.org/10.1002/jmv.28074
+De Marco, C., Marascio, N., Veneziano, C., Biamonte, F., Trecarichi, E. M., Santamaria, G., Leviyang, S., Liberto, M. C., Mazzitelli, M., Quirino, A., Longhini, F., Torella, D., Quattrone, A., Matera, G., Torti, C., Costanzo, F. S., & Viglietto, G. (2022). Whole-genome analysis of SARS-CoV-2 in a 2020 infection cluster in a nursing home of Southern Italy. Infection, Genetics and Evolution, 99, Article 105253. https://doi.org/10.1016/j.meegid.2022.105253
+Pi√±ana, M., Gonz√°lez-S√°nchez, A., Andr√©s, C., Abanto, M., Vila, J., Esperalba, J., Moral, N., Espartosa, E., Saubi, N., Creus, A., Codina, M. G., Folgueira, D., Martinez-Urtaza, J., Pumarola, T., & Ant√≥n, A. (2023). The emergence, impact, and evolution of human metapneumovirus variants from 2014 to 2021 in Spain. Journal of Infection, 87(2), 103‚Äì110. https://doi.org/10.1016/j.jinf.2023.05.004
+Ghosh, N., Nandi, S., & Saha, I. (2022). Phylogenetic analysis of 17271 Indian SARS-CoV-2 genomes to identify temporal and spatial hotspot mutations. PLoS ONE, 17(3), Article e0265579. https://doi.org/10.1371/journal.pone.0265579
+Feghali, R., Merhi, G., Kwasiborski, A., Hourdel, V., Ghosn, N., & Tokajian, S. (2021). Genomic characterization and phylogenetic analysis of the first SARS-CoV-2 variants introduced in Lebanon. PeerJ, 9, Article e11015. https://doi.org/10.7717/peerj.11015
+Tabibzadeh, A., Zamani, F., Laali, A., Esghaei, M., Safarnezhad Tameshkel, F., Keyvani, H., Jamshidi Makiani, M., Panahi, M., Motamed, N., Perumal, D., Khoonsari, M., Ajdarkosh, H., Sohrabi, M., Ghanbari, B., Savaj, S., Mosavi-Jarrahi, A., Karbalaie Niya, M. H. (2020). SARS-CoV-2 molecular and phylogenetic analysis in COVID-19 patients: A preliminary report from Iran. Infection, Genetics and Evolution, 84, Article 104387. https://doi.org/10.1016/j.meegid.2020.104387
+Fuchs, M., Radulescu, C., Tang, M., Mahesh, A., Lavin, D., Umbreen, S., McKenna, J., Smyth, M., McColgan, E., Molnar, Z., Baxter, C., Skvortsov, T., Singh, A., Rogan, F., Miskelly, J., Bridgett, S., & Fairley, D., Simpson, D. A. (2022). Mini-XT, a miniaturized tagmentation-based protocol for efficient sequencing of SARS-CoV-2. Journal of Translational Medicine, 20(1), Article 105. https://doi.org/10.1186/s12967-022-03307-9
+Doma≈Ñska-Blicharz, K., Or≈Çowska, A., Smreczak, M., Niemczuk, K., Iwan, E., Bomba, A., Lisowska, A., Opolska, J., Trƒôbas, P., Potyra≈Ço, P., Kawiak-Sadurska, M., & Rola, J. (2021). Mink SARS-CoV-2 infection in Poland - Short communication. Journal of Veterinary Research, 65(1), 1‚Äì5. https://doi.org/10.2478/jvetres-2021-0017
+Capozzi, L., Bianco, A., Del Sambro, L., Simone, D., Lippolis, A., Notarnicola, M., Pesole, G., Pace, L., Galante, D., & Parisi, A. (2021). Genomic surveillance of circulating SARS-CoV-2 in South East Italy: A one-year retrospective genetic study. Viruses, 13(5), Article 731. https://doi.org/10.3390/v13050731
+Lemoine, F., & Gascuel, O. (2024). The Bayesian phylogenetic bootstrap and its application to short trees and branches. Molecular Biology and Evolution, 41(11), Article msae238. https://doi.org/10.1093/molbev/msae238
+Chiara, M., Horner, D. S., Gissi, C., & Pesole, G. (2021). Comparative genomics reveals early emergence and biased spatiotemporal distribution of SARS-CoV-2. Molecular Biology and Evolution, 38(6), 2547‚Äì2565. https://doi.org/10.1093/molbev/msab049
+Ferreira, R. C., Wong, E., Gugan, G., Wade, K., Liu, M., Baena, L. M., Chato, C., Lu, B., Olabode, A. S., & Poon, A. F. Y. (2021). CoVizu: Rapid analysis and visualization of the global diversity of SARS-CoV-2 genomes. Virus Evolution, 7(2), Article veab092. https://doi.org/10.1093/ve/veab092
+Laskar, R., & Ali, S. (2021). Phylo-geo-network and haplogroup analysis of 611 novel coronavirus (SARS-CoV-2) genomes from India. Life Science Alliance, 4(5), Article e202000925. https://doi.org/10.26508/lsa.202000925
+Wang, W., Barbetti, J., Wong, T., Thornlow, B., Corbett-Detig, R., Turakhia, Y., Lanfear, R., & Minh, B. Q. (2023). DecentTree: Scalable Neighbour-Joining for the genomic era. Bioinformatics, 39(9), Article btad536. https://doi.org/10.1093/bioinformatics/btad536
+Lenggenhager, L., Martischang, R., Sauser, J., Perez, M., Vieux, L., Graf, C., Cordey, S., Laubscher, F., Nunes, T. R., Zingg, W., Cori, A., Harbarth, S., & Abbas, M. (2022). Occupational and community risk of SARS-CoV-2 infection among employees of a long-term care facility: An observational study. Antimicrobial Resistance & Infection Control, 11(1), Article 51. https://doi.org/10.1186/s13756-022-01092-0
+Rice, A. M., Troendle, E. P., Bridgett, S. J., Firoozi Nejad, B., McKinley, J. M., COVID-19 Genomics UK consortium, National SARS-CoV-2 Surveillance & Whole Genome Sequencing (WGS) Programme, Bradley, D. T., Fairley, D. J., Bamford, C. G. G., Skvortsov, T., & Simpson, D. A. (2024). SARS-CoV-2 introductions to the island of Ireland: A phylogenetic and geospatiotemporal study of infection dynamics. Genome Medicine, 16(1), Article 150. https://doi.org/10.1186/s13073-024-01409-1
+Ozhmegova, E. N., Savochkina, T. E., Prilipov, A. G., Tikhomirov, E., Larichev, V. F., Sayfullin, M. A., & Grebennikova, T. V. (2023). Molecular epidemiological analysis of SARS-CoV-2 genovariants in Moscow and Moscow region. Voprosy Virusologii, 67(6), 496‚Äì505. https://doi.org/10.36233/0507-4088-146
+Sgorlon, G., Roca, T. P., Passos-Silva, A. M., Cust√≥dio, M. G. F., Queiroz, J. A. D. S., da Silva, A. L. F., Teixeira, K. S., Batista, F. S., Salcedo, J. M. V., Rampazzo, R. C. P., Naveca, F. G., & Vieira, D. (2023). SARS-CoV-2 spike protein mutations in different variants: A comparison between vaccinated and unvaccinated population in Western Amazonia. Bioinformatics and Biology Insights, 17, Article 11779322231186477. https://doi.org/10.1177/11779322231186477
+Obeid, D., Al-Qahtani, A., Almaghrabi, R., Alghamdi, S., Alsanea, M., Alahideb, B., Almutairi, S., Alsuwairi, F., Al-Abdulkareem, M., Asiri, M., Alshukairi, A., Alkahtany, J., Altamimi, S., Mutabagani, M., Althawadi, S., Alanzi, F., & Alhamlan, F. (2023). Analysis of SARS-CoV-2 genomic surveillance data during the Delta and Omicron waves at a Saudi tertiary referral hospital. Journal of Infection and Public Health, 16(2), 171‚Äì181. https://doi.org/10.1016/j.jiph.2022.12.007
+Novkovic, M., Banovic Djeri, B., Ristivojevic, B., Knezevic, A., Jankovic, M., Tanasic, V., Radojicic, V., Keckarevic, D., Vidanovic, D., Tesovic, B., Skakic, A., Tolinacki, M., Moric, I., & Djordjevic, V. (2024). Genome sequence diversity of SARS-CoV-2 in Serbia: Insights gained from a 3-year pandemic study. Frontiers in Microbiology, 15, Article 1332276. https://doi.org/10.3389/fmicb.2024.1332276
+Islam, O. K., Al-Emran, H. M., Hasan, M. S., Anwar, A., Jahid, M. I. K., & Hossain, M. A. (2021). Emergence of European and North American mutant variants of SARS-CoV-2 in South-East Asia. Transboundary and Emerging Diseases, 68(2), 824‚Äì832. https://doi.org/10.1111/tbed.13748
+Pi√±ana, M., Gonz√°lez-S√°nchez, A., Andr√©s, C., Vila, J., Creus-Costa, A., Prats-M√©ndez, I., Arnedo-Mu√±oz, M., Saubi, N., Esperalba, J., Rando, A., Nadal-Baron, P., Quer, J., Gonz√°lez-L√≥pez, J. J., Soler-Palac√≠n, P., Mart√≠nez-Urtaza, J., Larrosa, N., Pumarola, T., & Ant√≥n, A. (2024). Genomic evolution of human respiratory syncytial virus during a decade (2013-2023): Bridging the path to monoclonal antibody surveillance. Journal of Infection, 88(5), Article 106153. https://doi.org/10.1016/j.jinf.2024.106153
+Zaman, S., Sledzieski, S., Berger, B., Wu, Y. C., & Bansal, M. S. (2023). virDTL: Viral recombination analysis through phylogenetic reconciliation and its application to Sarbecoviruses and SARS-CoV-2. Journal of Computational Biology, 30(1), 3‚Äì20. https://doi.org/10.1089/cmb.2021.0507
+Adiga, R., & Nayak, V. (2021). Emergence of novel SARS-CoV-2 variants in India: Second wave. Journal of Infection in Developing Countries, 15(11), 1578‚Äì1583. https://doi.org/10.3855/jidc.15484
+Zandi, M., Soltani, S., Tabibzadeh, A., Nasimzadeh, S., Behboudi, E., Zakeri, A., Erfani, Y., Salmanzadeh, S., & Abbasi, S. (2023). Partial sequence conservation of SARS-CoV-2 NSP-2, NSP-12, and spike in stool samples from Abadan, Iran. Biotechnology and Applied Biochemistry, 70(1), 201‚Äì209. https://doi.org/10.1002/bab.2343
+Pirnay, J. P., Selhorst, P., Hong, S. L., Cochez, C., Potter, B., Maes, P., Petrillo, M., Dudas, G., Claes, V., Van der Beken, Y., Verbeken, G., Degueldre, J., Dellicour, S., Cuypers, L., T'Sas, F., Van den Eede, G., Verhasselt, B., Weuts, W., Smets, C., Mertens, J., Geeraerts, P., Ari√´n, K. K., Andr√©, E., Neirinckx, P., Soentjens, P., & Baele, G. (2021). Variant analysis of SARS-CoV-2 genomes from Belgian military personnel engaged in overseas missions and operations. Viruses, 13(7), Article 1359. https://doi.org/10.3390/v13071359
+Engelbrecht, S., Delaney, K., Kleinhans, B., Wilkinson, E., Tegally, H., Stander, T., van Zyl, G., Preiser, W., & de Oliveira, T. (2021). Multiple early introductions of SARS-CoV-2 to Cape Town, South Africa. Viruses, 13(3), Article 526. https://doi.org/10.3390/v13030526
+Aguilar-Martinez, S. L., Sandoval-Pe√±a, G. A., Molina-Mora, J. A., Tsukayama-Cisneros, P., D√≠az-V√©lez, C., Aguilar-Gamboa, F. R., Bonilla-Aldana, D. K., & Rodriguez-Morales, A. J. (2024). Genomic and phylogenetic characterisation of SARS-CoV-2 genomes isolated in patients from Lambayeque region, Peru. Tropical Medicine and Infectious Disease, 9(2), Article 46. https://doi.org/10.3390/tropicalmed9020046
+Eslami, S., Glassy, M. C., & Ghafouri-Fard, S. (2022). A comprehensive overview of identified mutations in SARS-CoV-2 spike glycoprotein among Iranian patients. Gene, 813, Article 146113. https://doi.org/10.1016/j.gene.2021.146113
+Perez, L. J., Orf, G. S., Berg, M. G., Rodgers, M. A., Meyer, T. V., Mohaimani, A., Olivo, A., Harris, B., Mowerman, I., Padane, A., Dela-Del Lawson, A. T., Mboup, A., Mbow, M., Leye, N., Tour√©-Kane, N. C., Ahouidi, A. D., & Cloherty, G. A., Mboup, S. (2022). The early SARS-CoV-2 epidemic in Senegal was driven by the local emergence of B.1.416 and the introduction of B.1.1.420 from Europe. Virus Evolution, 8(1), Article veac025. https://doi.org/10.1093/ve/veac025
+Lee, S., Choi, C. H., Yun, M. R., Kim, D. W., Kim, S. S., Choi, Y. K., & Choi, Y. S. (2021). Evaluation of global evolutionary variations in the early stage of SARS-CoV-2 pandemic. Heliyon, 7(10), Article e08170. https://doi.org/10.1016/j.heliyon.2021.e08170
+Bui, N. N., Lin, Y. T., Huang, S. H., & Lin, C. W. (2021). The extent of molecular variation in novel SARS-CoV-2 after the six-month global spread. Infection, Genetics and Evolution, 91, Article 104800. https://doi.org/10.1016/j.meegid.2021.104800
+Zhou, Y., Zhang, S., Chen, J., Wan, C., Zhao, W., & Zhang, B. (2020). Analysis of variation and evolution of SARS-CoV-2 genome. Nan Fang Yi Ke Da Xue Xue Bao, 40(2), 152‚Äì158. https://doi.org/10.12122/j.issn.1673-4254.2020.02.02
+Wang, L., Didelot, X., Bi, Y., & Gao, G. F. (2021). Assessing the extent of community spread caused by mink-derived SARS-CoV-2 variants. The Innovation, 2(3), Article 100128. https://doi.org/10.1016/j.xinn.2021.100128
+P√§ll, T., Abroi, A., Avi, R., Niglas, H., Shablinskaja, A., Pauskar, M., J√µgeda, E. L., Soeorg, H., Kallas, E., Lahesaare, A., Truusalu, K., Hoidmets, D., Sadikova, O., Ratnik, K., Sepp, H., Dotsenko, L., Ep≈°tein, J., Suija, H., Kaarna, K., Smit, S., Milani, L., Metspalu, M., Oopkaup, O. E., Koppel, I., Jaaniso, E., Kuzmin, I., Inno, H., Raudvere, U., H√§rma, M. A., Naaber, P., Reisberg, T., Peterson, H., Talas, U. G., Lutsar, I., & Huik, K. (2024). SARS-CoV-2 clade dynamics and their associations with hospitalisations during the first two years of the COVID-19 pandemic. PLoS ONE, 19(5), Article e0303176. https://doi.org/10.1371/journal.pone.0303176
+Islam, M. A., Marzan, A. A., Arman, M. S., Shahi, S., Sakif, T. I., Hossain, M., Islam, T., & Hoque, M. N. (2023). Some common deleterious mutations are shared in SARS-CoV-2 genomes from deceased COVID-19 patients across continents. Scientific Reports, 13(1), Article 18644. https://doi.org/10.1038/s41598-023-45517-1
+Castillo, A. P., Miranda, J. V. O., Fonseca, P. L. C., Moreira, R. G., de Ara√∫jo E Santos, L. C. G., Queiroz, D. C., Bonfim, D. M., Coelho, C. M., Lima, P. C. S., Motta, R. O. C., Tinoco, H. P., da Silveira, J. A. G., & Aguiar, R. S. (2024). SARS-CoV-2 surveillance in captive animals at the Belo Horizonte zoo, Minas Gerais, Brazil. Virology Journal, 21(1), Article 297. https://doi.org/10.1186/s12985-024-02505-9
+Gu, S. H., Song, D. H., Yun, H., Kim, J. E., Lee, S. H., Lee, H., Lee, T. H., Kang, S. M., Jung, Y. S., Hur, G., & Lee, D. (2022). Molecular characterization of SARS-CoV-2 from the saliva of patients in the Republic of Korea in 2020. Health Science Reports, 5(6), Article e856. https://doi.org/10.1002/hsr2.856
+Sgorlon, G., Queiroz, J. A. D. S., Roca, T. P., Silva, A. M. P. D., Gasparelo, N. W. F., Teixeira, K. S., Oliveira, A. S. D. N., Mendon√ßa, A. L. F. M., Maia, A. C. S., Pereira, S. D. S., Batista, F. S., Salcedo, J. M. V., Rampazzo, R. C. P., Resende, P. C., Siqueira, M. M., Naveca, F. G., & Vieira, D. (2023). Clinical and epidemiological aspects of Delta and Gamma SARS-CoV-2 variant of concern from the western Brazilian Amazon. Mem√≥rias do Instituto Oswaldo Cruz, 117, Article e220155. https://doi.org/10.1590/0074-02760220155
+Yang, H., Peng, Q., Lang, Y., Du, S., Cao, S., Wu, R., Zhao, Q., Huang, X., Wen, Y., Lin, J., Zhao, S., & Yan, Q. (2022). Phylogeny, evolution, and transmission dynamics of canine and feline coronaviruses: A retro-prospective study. Frontiers in Microbiology, 13, Article 850516. https://doi.org/10.3389/fmicb.2022.850516
+Ye, C., Thornlow, B., Hinrichs, A., Kramer, A., Mirchandani, C., Torvi, D., Lanfear, R., Corbett-Detig, R., & Turakhia, Y. (2022). matOptimize: A parallel tree optimization method enables online phylogenetics for SARS-CoV-2. Bioinformatics, 38(15), 3734‚Äì3740. https://doi.org/10.1093/bioinformatics/btac401
+Abbas, M., Nunes, T. R., Cori, A., Cordey, S., Laubscher, F., Baggio, S., ... & Harbarth, S. (2021). Explosive nosocomial outbreak of SARS-CoV-2 in a rehabilitation clinic: the limits of genomics for outbreak reconstruction. Journal of Hospital Infection, 117, 124-134. https://doi.org/10.1016/j.jhin.2021.07.013
+Pandey, U., Yee, R., Shen, L., Judkins, A. R., Bootwalla, M., Ryutov, A., ... & Dien Bard, J. (2021, June). High prevalence of SARS-CoV-2 genetic variation and D614G mutation in pediatric patients with COVID-19. In Open Forum Infectious Diseases (Vol. 8, No. 6, p. ofaa551). US: Oxford University Press. https://doi.org/10.1093/ofid/ofaa551
+Bbosa, N., Kiiza, R., Ssekagiri, A., Namagembe, H. S., Nabirye, S. E., Kabuuka, D., ... & Ssemwanga, D. (2024). Emerging SARS-CoV-2 Variants in Uganda in the Era of COVID-19 Vaccination. Viruses, 16(12), 1860. https://doi.org/10.3390/v16121860
+Kandeel, M., & El-Deeb, W. (2022). Omicron variant receptor-binding domain phylogenetics and molecular dynamics. Computers in Biology and Medicine, 146, 105633. https://doi.org/10.1016/j.compbiomed.2022.105633
+Potdar, V., Vipat, V., Ramdasi, A., Jadhav, S., Pawar-Patil, J., Walimbe, A., ... & Icmr-Niv Nic Team. (2021). Phylogenetic classification of the whole-genome sequences of SARS-CoV-2 from India & evolutionary trends. Indian Journal of Medical Research, 153(1-2), 166-174. https://doi.org/10.4103/ijmr.IJMR_3418_20
+Taiwo, I. A., Adeleye, N., Anwoju, F. O., Adeyinka, A., Uzoma, I. C., & Bankole, T. T. (2022). Sequence analysis for SNP detection and phylogenetic reconstruction of SARS-cov-2 isolated from Nigerian COVID-19 cases. New Microbes and New Infections, 45, 100955. https://doi.org/10.1016/j.nmni.2022.100955
+Bouckaert, R. R. (2022). An efficient coalescent epoch model for Bayesian phylogenetic inference. Systematic Biology, 71(6), 1549-1560. https://doi.org/10.1093/sysbio/syac015
+Parvin, R., Afrin, S. Z., Begum, J. A., Ahmed, S., Nooruzzaman, M., Chowdhury, E. H., ... & Paul, S. K. (2021). Molecular analysis of SARS-CoV-2 circulating in Bangladesh during 2020 revealed lineage diversity and potential mutations. Microorganisms, 9(5), 1035. https://doi.org/10.3390/microorganisms9051035
+Kasibhatla, S. M., Kinikar, M., Limaye, S., Kale, M. M., & Kulkarni‚ÄêKale, U. (2020). Understanding evolution of SARS‚ÄêCoV‚Äê2: a perspective from analysis of genetic diversity of RdRp gene. Journal of medical virology, 92(10), 1932-1937. https://doi.org/10.1002/jmv.25909
+Na, E. J., Lee, S. Y., Kim, H. J., & Oem, J. K. (2021). Comparative genetic analyses of Korean bat coronaviruses with SARS-CoV and the newly emerged SARS-CoV-2. Journal of Veterinary Science, 22(1), e12. https://doi.org/10.4142/jvs.2021.22.e12
+Rueca, M., Giombini, E., Gramigna, G., Gruber, C. E. M., Fabeni, L., Corpolongo, A., ... & SARS CoV-2 Lazio Surveillance Study Group. (2022). Molecular Characterization of Whole-Genome SARS-CoV-2 from the First Suspected Cases of the XE Variant in the Lazio Region, Italy. Diagnostics, 12(9), 2219. https://doi.org/10.3390/diagnostics12092219
+Abdulaziz, S. M., Ghareeb, A. A., Rahman, M. O., & Haji, S. H. (2024). Dominance of SARS-CoV-2 Delta AY. 33 sublineage and Omicron BA. 1.1 sublineage in Erbil city/Kurdistan region of Iraq. Cellular and Molecular Biology, 70(10), 83-90. https://doi.org/10.14715/cmb/2024.70.10.12
+Ye, Y., Shum, M. H., Tsui, J. L., Yu, G., Smith, D. K., Zhu, H., Wu, J. T., Guan, Y., & Lam, T. T. (2024). Robust expansion of phylogeny for fast-growing genome sequence data. PLoS Computational Biology, 20(2), Article e1011871. https://doi.org/10.1371/journal.pcbi.1011871
+Tay, J. H., Baele, G., & Duchene, S. (2023). Detecting episodic evolution through Bayesian inference of molecular clock models. Molecular Biology and Evolution, 40(10), Article msad212. https://doi.org/10.1093/molbev/msad212
+Bader, W., Delerce, J., Aherfi, S., La Scola, B., & Colson, P. (2022). Quasispecies analysis of SARS-CoV-2 of 15 different lineages during the first year of the pandemic prompts scratching under the surface of consensus genome sequences. International Journal of Molecular Sciences, 23(24), Article 15658. https://doi.org/10.3390/ijms232415658
+Suardana, I. B. K., Mahardika, B. K., Pharmawati, M., Sudipa, P. H., Sari, T. K., Mahendra, N. B., & Mahardika, G. N. (2023). Whole-genome comparison of representatives of all variants of SARS-CoV-2, including subvariant BA.2 and the GKA clade. Advances in Virology, 2023, Article 6476626. https://doi.org/10.1155/2023/6476626
+Shen, S., Zhang, Z., & He, F. (2021). The phylogenetic relationship within SARS-CoV-2s: An expanding basal clade. Molecular Phylogenetics and Evolution, 157, Article 107017. https://doi.org/10.1016/j.ympev.2020.107017
+Mota Amaral, G. G., Sgorlon, G., Batista Ferreira, V., Serrano Batista, F., da Silva Soares Farias, L., Barbagelata, L. S., Dos Santos, M. C., da Silva Bedran, R. L., Souza Vieira Dall'Acqua, D., & Benevides Matos, N. (2025). SARS-CoV-2 infection among children in Rond√¥nia, Western Brazilian Amazon: SARS-CoV-2 among children in Rond√¥nia. Advances in Virology, 2025, Article 6655790. https://doi.org/10.1155/av/6655790
+Francesconi, M., Giovanetti, M., De Florio, L., Fogolari, M., Veralli, R., De Flora, C., Spoto, S., Maruotti, A., Riva, E., Angeletti, S., & Ciccozzi, M. (2022). Genomic epidemiology unveil the Omicron transmission dynamics in Rome, Italy. Pathogens, 11(9), Article 1011. https://doi.org/10.3390/pathogens11091011
+Zhao, Z., Sokhansanj, B. A., Malhotra, C., Zheng, K., & Rosen, G. L. (2020). Genetic grouping of SARS-CoV-2 coronavirus sequences using informative subtype markers for pandemic spread visualization. PLoS Computational Biology, 16(9), Article e1008269. https://doi.org/10.1371/journal.pcbi.1008269
+Khalid, S., Siddique, R., Shaheen, S., Shahid, M. N., Shamim, Z., Khan, M. K. A., & Ser√ße, √á. U. (2021). Current understanding of an emerging coronavirus using in silico approach: Severe acute respiratory syndrome-coronavirus-2 (SARS-CoV-2). Brazilian Journal of Biology, 83, Article e247237. https://doi.org/10.1590/1519-6984.247237
+Olorunfemi, A. B., Suliman, S. A. R., Tran, T. T., Ayorinde, B., Fowora, M. A., Iwalokun, B. A., Olowe, O. A., Opaleye, O. O., Osman, M., Salako, B. L., Adegbola, R., Thomas, B. N., Pallerla, S. R., & Velavan, T. P., Ojurongbe, O. (2024). Whole genome sequencing and phylogenetic analysis of SARS-CoV-2 strains isolated during the COVID-19 pandemic in Nigeria. IJID Regions, 10, 174‚Äì178. https://doi.org/10.1016/j.ijregi.2024.01.005
+Khemiri, H., Mangone, I., Gdoura, M., Mefteh, K., Chouikha, A., Fares, W., Lorusso, A., Ancora, M., Pasquale, A. D., Camm√†, C., Halima, S. B., Krichen, H., Smaoui, H., Boubaker, I. B. B., Bahri, O., Touzi, H., Sadraoui, A., Meddeb, Z., Hogga, N., Safer, M., Alaya, N. B., & Triki, H., Haddad-Boubaker, S. (2024). Dynamic of SARS-CoV-2 variants circulation in Tunisian pediatric population, during successive waves, from March 2020 to September 2022. Virus Research, 344, Article 199353. https://doi.org/10.1016/j.virusres.2024.199353
+Saxena, S. K., Kumar, S., Ansari, S., Paweska, J. T., Maurya, V. K., Tripathi, A. K., & Abdel-Moneim, A. S. (2022). Transmission dynamics and mutational prevalence of the novel severe acute respiratory syndrome coronavirus-2 Omicron variant of concern. Journal of Medical Virology, 94(5), 2160‚Äì2166. https://doi.org/10.1002/jmv.27611
+Jo, W. K., Drosten, C., & Drexler, J. F. (2021). The evolutionary dynamics of endemic human coronaviruses. Virus Evolution, 7(1), Article veab020. https://doi.org/10.1093/ve/veab020
+Gallouche, M., Landelle, C., Larrat, S., Truffot, A., Bosson, J. L., & Caporossi, A. (2023). Towards real-time monitoring of COVID-19 nosocomial clusters using SARS-CoV-2 genomes in a university hospital of the French Alps. Infectious Diseases Now, 53(3), Article 104650. https://doi.org/10.1016/j.idnow.2023.104650
+Shabani, M., Nejati, A., Yavarian, J., Sadeghi, K., Zadheidar, S., Ahmadi, A. S., Ghadirali, M., Zebardast, A., Abedi, A., Najmi, M. H., Shafiei-Jandaghi, N. Z., & Mokhtari-Azad, T. (2025). The trend of phylogenetic and epitope variations of SARS-CoV-2 Omicron sub-lineages in Iran. Frontiers in Microbiology, 15, Article 1531712. https://doi.org/10.3389/fmicb.2024.1531712
+Rahman, M. M., Kader, S. B., & Rizvi, S. M. S. (2021). Molecular characterization of SARS-CoV-2 from Bangladesh: Implications in genetic diversity, possible origin of the virus, and functional significance of the mutations. Heliyon, 7(8), Article e07866. https://doi.org/10.1016/j.heliyon.2021.e07866
+Kohler, C., King, J., Stacker, L., Goller, K. V., Moritz, J., Pohlmann, A., Nath, N., Tzvetkova, A., Rieck, M., Paraskevopoulou, S., Beslic, D., H√∂lzer, M., Fuchs, S., Ziemann, J., Kaderali, L., Beer, M., H√ºbner, N. O., & Becker, K. (2023). Neighbourhood watch: Genomic epidemiology of SARS-CoV-2 variants circulating in a German federal state, Mecklenburg-Western Pomerania, in 2020-2022. Emerging Microbes & Infections, 12(2), Article 2245916. https://doi.org/10.1080/22221751.2023.2245916
+Sayan, M., Arikan, A., & Isbilen, M. (2022). Variant analysis of SARS-CoV-2 strains with phylogenetic analysis and the coronavirus antiviral and resistance database. Journal of Comparative Effectiveness Research, 11(3), 157‚Äì167. https://doi.org/10.2217/cer-2021-0208
+Cao, C., Huang, L., Liu, K., Ma, K., Tian, Y., Qin, Y., Sun, H., Ding, W., Gui, L., & Wu, P. (2020). Amino acid variation analysis of surface spike glycoprotein at 614 in SARS-CoV-2 strains. Genes & Diseases, 7(4), 567‚Äì577. https://doi.org/10.1016/j.gendis.2020.05.006
+Feng, C., Liu, Y., Lyu, G., Shang, S., Xia, H., Zhang, J., Irwin, D. M., Wang, Z., & Zhang, S. (2022). Adaptive evolution of the fox coronavirus based on genome-wide sequence analysis. BioMed Research International, 2022, Article 9627961. https://doi.org/10.1155/2022/9627961
+Khemiri, H., Ben Fraj, I., Lorusso, A., Mekki, N., Mangone, I., Gdoura, M., Di Pasqual, A., Camm√†, C., Di Lollo, V., Cherni, A., Touzi, H., Sadraoui, A., Meddeb, Z., Hogga, N., Ben Mustapha, I., Barbouche, M. R., Ouederni, M., Triki, H., & Haddad-Boubaker, S. (2025). SARS-CoV-2 excretion and genetic evolution in nasopharyngeal and stool samples from primary immunodeficiency and immunocompetent pediatric patients. Virology Journal, 22(1), Article 9. https://doi.org/10.1186/s12985-025-02628-7
+Zaman, K., Shete, A. M., Mishra, S. K., Kumar, A., Reddy, M. M., Sahay, R. R., Yadav, S., Majumdar, T., Pandey, A. K., Dwivedi, G. R., Deval, H., Singh, R., Behera, S. P., Kumar, N., Patil, S., Kumar, A., Dudhmal, M., Joshi, Y., Shukla, A., Gawande, P., Kavathekar, A., Kumar, N., Kumar, V., Kumar, K., Singh, R. S., Kumar, M., Tiwari, S., Verma, A., Yadav, P. D., & Kant, R. (2022). Omicron BA.2 lineage predominance in severe acute respiratory syndrome coronavirus 2 positive cases during the third wave in North India. Frontiers in Medicine, 9, Article 955930. https://doi.org/10.3389/fmed.2022.955930
+Ki, C., & Terhorst, J. (2022). Variational phylodynamic inference using pandemic-scale data. Molecular Biology and Evolution, 39(8), Article msac154. https://doi.org/10.1093/molbev/msac154
+Van der Roest, B. R., Bootsma, M. C. J., Fischer, E. A. J., Klinkenberg, D., & Kretzschmar, M. E. E. (2023). A Bayesian inference method to estimate transmission trees with multiple introductions; applied to SARS-CoV-2 in Dutch mink farms. PLoS Computational Biology, 19(11), Article e1010928. https://doi.org/10.1371/journal.pcbi.1010928
+Dixson, J. D., & Azad, R. K. (2021). A novel predictor of ACE2-binding ability among betacoronaviruses. Evolution, Medicine, and Public Health, 9(1), 360‚Äì373. https://doi.org/10.1093/emph/eoab032
+Zhu, M., Zeng, Q., Saputro, B. I. L., Chew, S. P., Chew, I., Frendy, H., Tan, J. W., & Li, L. (2022). Tracking the molecular evolution and transmission patterns of SARS-CoV-2 lineage B.1.466.2 in Indonesia based on genomic surveillance data. Virology Journal, 19(1), Article 103. https://doi.org/10.1186/s12985-022-01830-1
+Ye, Y., Shum, M. H., Wu, I., Chau, C., Zhao, N., Smith, D. K., Wu, J. T., & Lam, T. T. (2024). F1ALA: Ultrafast and memory-efficient ancestral lineage annotation applied to the huge SARS-CoV-2 phylogeny. Virus Evolution, 10(1), Article veae056. https://doi.org/10.1093/ve/veae056
+Kostaki, E. G., Mossialos, E., Tseti, I., Sfikakis, P. P., & Paraskevis, D. (2022). Mapping the early dispersal patterns of SARS-CoV-2 Omicron BA.4 and BA.5 subvariants in the absence of travel restrictions and testing at the borders in Europe. Viruses, 15(1), Article 133. https://doi.org/10.3390/v15010133
+Rasmussen, T. B., Qvesel, A. G., Pedersen, A. G., Olesen, A. S., Fonager, J., Rasmussen, M., Sieber, R. N., Stegger, M., Calvo-Artavia, F. F., Goedknegt, M. J. F., Thuesen, E. R., Lohse, L., Mortensen, S., Fomsgaard, A., Boklund, A., & B√∏tner, A., Belsham, G. J. (2024). Emergence and spread of SARS-CoV-2 variants from farmed mink to humans and back during the epidemic in Denmark, June-November 2020. PLoS Pathogens, 20(7), Article e1012039. https://doi.org/10.1371/journal.ppat.1012039
+Sallam, M., Ababneh, N. A., Dababseh, D., Bakri, F. G., & Mahafzah, A. (2021). Temporal increase in D614G mutation of SARS-CoV-2 in the Middle East and North Africa. Heliyon, 7(1), Article e06035. https://doi.org/10.1016/j.heliyon.2021.e06035
+Guagliardo, S. A. J., Quilter, L. A. S., Uehara, A., White, S. B., Talarico, S., Tong, S., Paden, C. R., Zhang, J., Li, Y., Pray, I., Novak, R. T., Fukunaga, R., Rodriguez, A., Medley, A. M., Wagner, R., Weinberg, M., Brown, C. M., US State and Local Departments of Health, & Friedman, C. R. (2023). COVID-19 on the Nile: A cross-sectional investigation of COVID-19 among Nile River cruise travellers returning to the United States, February-March 2020. Journal of Travel Medicine, 30(4), Article taac153. https://doi.org/10.1093/jtm/taac153
+Mavian, C., Marini, S., Prosperi, M., & Salemi, M. (2020). A snapshot of SARS-CoV-2 genome availability up to April 2020 and its implications: Data analysis. JMIR Public Health and Surveillance, 6(2), Article e19170. https://doi.org/10.2196/19170
+Wruck, W., & Adjaye, J. (2021). Detailed phylogenetic analysis tracks transmission of distinct SARS-CoV-2 variants from China and Europe to West Africa. Scientific Reports, 11(1), Article 21108. https://doi.org/10.1038/s41598-021-00267-w
+Bui, N. N., Lin, Y. T., Huang, S. H., & Lin, C. W. (2022). Haplotype distribution of SARS-CoV-2 variants in low and high vaccination rate countries during ongoing global COVID-19 pandemic in early 2021. Infection, Genetics and Evolution, 97, Article 105164. https://doi.org/10.1016/j.meegid.2021.105164
+Hu, G. M., Tai, Y. C., & Chen, C. M. (2023). Unraveling the evolutionary patterns and phylogenomics of coronaviruses: A consensus network approach. Journal of Medical Virology, 95(11), e29233. https://doi.org/10.1002/jmv.29233
+Capistran, M. A., Infante, J. A., Ramos, √Å. M., & Rey, J. M. (2023). Disentangling the role of virus infectiousness and awareness-based human behavior during the early phase of the COVID-19 pandemic in the European Union. Applied Mathematical Modelling, 122, 187‚Äì199. https://doi.org/10.1016/j.apm.2023.05.027
+Djorw√©, S., Malki, A., Nzoyikorera, N., Nyandwi, J., Zebsoubo, S. P., Bellamine, K., & Bousfiha, A. (2024). Genetic diversity and genomic epidemiology of SARS-CoV-2 during the first 3 years of the pandemic in Morocco: Comprehensive sequence analysis, including the unique lineage B.1.528 in Morocco. Access Microbiology, 6(10), Article 000853.v4. https://doi.org/10.1099/acmi.0.000853.v4
+Hussain, A. (2022). A phylogenetic perspective of antiviral species of the genus Artemisia (Asteraceae-Anthemideae): A proposal of anti SARS-CoV-2 (COVID-19) candidate taxa. Journal of Herbal Medicine, 36, Article 100601. https://doi.org/10.1016/j.hermed.2022.100601
+Shao, N., Zhang, C., Dong, J., Sun, L., Chen, X., Xie, Z., Xu, B., An, S., Zhang, T., & Yang, F. (2022). Molecular evolution of human coronavirus-NL63, -229E, -HKU1 and -OC43 in hospitalized children in China. Frontiers in Microbiology, 13, Article 1023847. https://doi.org/10.3389/fmicb.2022.1023847
+Taher, S. M., Abdo, J. M., & Merza, M. A. (2023). Phylogenetic, sequencing, and mutation analysis of SARS-CoV-2 Omicron (BA.1) and its subvariants (BA.1.1, BA.2) during the fifth wave of the COVID-19 pandemic in the Iraqi Kurdistan Region. Cureus, 15(11), Article e48637. https://doi.org/10.7759/cureus.48637
+Hirotsu, Y., & Omata, M. (2021). Detection of R.1 lineage severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) with spike protein W152L/E484K/G769V mutations in Japan. PLoS Pathogens, 17(6), Article e1009619. https://doi.org/10.1371/journal.ppat.1009619
+Ahmad, S. U., Khan, M. S., Jan, Z., Khan, N., Ali, A., Rehman, N., Haq, M., Khan, U., Bashir, Z., Tayyab, M., Haq, I., Bakht, S., & Zahir, F. (2021). Genome wide association study and phylogenetic analysis of novel SARS-CoV-2 virus among different countries. Pakistan Journal of Pharmaceutical Sciences, 34(4), 1305‚Äì1313.
+Ghosh, N., Saha, I., Sharma, N., & Nandi, S. (2022). Bioinformatics pipeline unveils genetic variability to synthetic vaccine design for Indian SARS-CoV-2 genomes. International Immunopharmacology, 112, Article 109224. https://doi.org/10.1016/j.intimp.2022.109224
+Wang, L., Didelot, X., Yang, J., Wong, G., Shi, Y., Liu, W., Gao, G. F., & Bi, Y. (2020). Inference of person-to-person transmission of COVID-19 reveals hidden super-spreading events during the early outbreak phase. Nature Communications, 11(1), Article 5006. https://doi.org/10.1038/s41467-020-18836-4
+Andr√©oletti, J., Zwaans, A., Warnock, R. C. M., Aguirre-Fern√°ndez, G., Barido-Sottani, J., Gupta, A., Stadler, T., & Manceau, M. (2022). The occurrence birth-death process for combined-evidence analysis in macroevolution and epidemiology. Systematic Biology, 71(6), 1440‚Äì1452. https://doi.org/10.1093/sysbio/syac037
+Zhang, F., Chai, C., Niu, R., Diao, Y., Zhou, Y., Zhang, J., Feng, L., Yao, C., Wu, Y., Ma, Y., Zan, X., & Wang, W. (2024). Genetic characterization of bovine coronavirus strain isolated in Inner Mongolia of China. BMC Veterinary Research, 20(1), Article 209. https://doi.org/10.1186/s12917-024-04046-3
+Lin, Q., Huang, Y., Jiang, Z., Wu, F., & Ma, L. (2021). Deciphering the subtype differentiation history of SARS-CoV-2 based on a new breadth-first searching optimized alignment method over a global data set of 24,768 sequences. Frontiers in Genetics, 11, Article 591833. https://doi.org/10.3389/fgene.2020.591833
+Kramer, A. M., Thornlow, B., Ye, C., De Maio, N., McBroome, J., Hinrichs, A. S., Lanfear, R., Turakhia, Y., & Corbett-Detig, R. (2023). Online phylogenetics with matOptimize produces equivalent trees and is dramatically more efficient for large SARS-CoV-2 phylogenies than de novo and maximum-likelihood implementations. Systematic Biology, 72(5), 1039‚Äì1051. https://doi.org/10.1093/sysbio/syad031
+Erman Daloƒülu, A., Lizarazo Forero, E., Sepin √ñzen, N., √áekin, Y., & Niesters, H. G. M. (2024). Antalya, T√ºrkiye‚Äôden elde edilen SARS-CoV-2 izolatlarƒ±nƒ±n sekans analizi [Genomic characterization of SARS-CoV-2 isolates obtained from Antalya, T√ºrkiye]. Mikrobiyoloji Bulteni, 58(4), 433‚Äì447. https://doi.org/10.5578/mb.20249643
+Giovanetti, M., Benvenuto, D., Angeletti, S., & Ciccozzi, M. (2020). The first two cases of 2019-nCoV in Italy: Where they come fromUnknown Journal of Medical Virology, 92(5), 518‚Äì521. https://doi.org/10.1002/jmv.25699
+Teixeira, K. S., Cust√≥dio, M. G. F., Sgorlon, G., Roca, T. P., Queiroz, J. A. D. S., Passos-Silva, A. M., Ribeiro, J., & Vieira, D. (2024). Haplotypic distribution of SARS-CoV-2 variants in cases of intradomiciliary infection in the state of Rond√¥nia, Western Amazon. Bioinformatics and Biology Insights, 18. https://doi.org/10.1177/11779322241266354
+Hong, S. M., Kim, S. J., An, S. H., Kim, J., Ha, E. J., Kim, H., Kwon, H. J., & Choi, K. S. (2023). Receptor binding motif surrounding sites in the spike 1 protein of infectious bronchitis virus have high susceptibility to mutation related to selective pressure. Journal of Veterinary Science, 24(4), Article e51. https://doi.org/10.4142/jvs.23039
+Tolentino, J. E., Lytras, S., Ito, J., & Sato, K. (2024). Recombination analysis on the receptor switching event of MERS-CoV and its close relatives: Implications for the emergence of MERS-CoV. Virology Journal, 21(1), Article 84. https://doi.org/10.1186/s12985-024-02358-2
+Jiang, M. L., Xu, Y. P., Wu, H., Zhu, R. N., Sun, Y., Chen, D. M., Wang, F., Zhou, Y. T., Guo, Q., Wu, A., Qian, Y., Zhou, H. Y., & Zhao, L. Q. (2023). Changes in endemic patterns of respiratory syncytial virus infection in pediatric patients under the pressure of nonpharmaceutical interventions for COVID-19 in Beijing, China. Journal of Medical Virology, 95(1), Article e28411. https://doi.org/10.1002/jmv.28411
+Jacob Machado, D., Scott, R., Guirales, S., & Janies, D. A. (2021). Fundamental evolution of all Orthocoronavirinae including three deadly lineages descendent from Chiroptera-hosted coronaviruses: SARS-CoV, MERS-CoV and SARS-CoV-2. Cladistics, 37(5), 461‚Äì488. https://doi.org/10.1111/cla.12454
+Saif, R., Mahmood, T., Ejaz, A., Zia, S., & Qureshi, A. R. (2021). Whole genome comparison of Pakistani coronavirus with Chinese and US strains along with its predictive severity of COVID-19. Gene Reports, 23, Article 101139. https://doi.org/10.1016/j.genrep.2021.101139
+Mashe, T., Takawira, F. T., de Oliveira Martins, L., Gudza-Mugabe, M., Chirenda, J., Munyanyi, M., Chaibva, B. V., Tarupiwa, A., Gumbo, H., Juru, A., Nyagupe, C., Ruhanya, V., Phiri, I., Manangazira, P., Goredema, A., Danda, S., Chabata, I., Jonga, J., Munharira, R., Masunda, K., Mukeredzi, I., Mangwanya, D., Trotter, A., Le Viet, T., Rudder, S., Kay, G., Baker, D., Thilliez, G., Gutierrez, A. V., O‚ÄôGrady, J., Hove, M., Mutapuri-Zinyowera, S., Page, A. J., Kingsley, R. A., & Mhlanga, G. (2021). Genomic epidemiology and the role of international and regional travel in the SARS-CoV-2 epidemic in Zimbabwe: A retrospective study of routinely collected surveillance data. The Lancet Global Health, 9(12), e1658‚Äìe1666. https://doi.org/10.1016/S2214-109X(21)00434-4
+Shen, L., Bard, J. D., Triche, T. J., Judkins, A. R., Biegel, J. A., & Gai, X. (2021). Rapidly emerging SARS-CoV-2 B.1.1.7 sub-lineage in the United States of America with spike protein D178H and membrane protein V70L mutations. Emerging Microbes & Infections, 10(1), 1293‚Äì1299. https://doi.org/10.1080/22221751.2021.1943540
+Kostaki, E. G., Pavlopoulos, G. A., Verrou, K. M., Ampatziadis-Michailidis, G., Harokopos, V., Hatzis, P., Moulos, P., Siafakas, N., Pournaras, S., Hadjichristodoulou, C., Chatzopoulou, F., Chatzidimitriou, D., Panagopoulos, P., Lourida, P., Argyraki, A., Lytras, T., Sapounas, S., Gerolymatos, G., Panagiotakopoulos, G., Prezerakos, P., Tsiodras, S., Sypsa, V., Hatzakis, A., Anastassopoulou, C., Spanakis, N., Tsakris, A., Dimopoulos, M. A., Kotanidou, A., Sfikakis, P., Kollias, G., Magiorkinis, G., & Paraskevis, D. (2021). Molecular epidemiology of SARS-CoV-2 in Greece reveals low rates of onward virus transmission after lifting of travel restrictions based on risk assessment during summer 2020. mSphere, 6(3), Article e0018021. https://doi.org/10.1128/mSphere.00180-21
+Sarkar, P., Banerjee, S., Chakrabarti, S., Chakrabarti, P., Bandyopadhyay, A., Mitra, A. G., Saha, S., Roy, A., & Sarkar, S. (2023). Genome characterization, phylogenomic assessment and spatio-temporal dynamics study of highly mutated BA variants from India. Indian Journal of Medical Microbiology, 43, 66‚Äì72. https://doi.org/10.1016/j.ijmmb.2022.10.006
+Hong, Y., Guo, M., & Wang, J. (2021). ENJ algorithm can construct triple phylogenetic trees. Molecular Therapy Nucleic Acids, 23, 286‚Äì293. https://doi.org/10.1016/j.omtn.2020.11.004
+Hoang, V. T., Colson, P., Levasseur, A., Delerce, J., Lagier, J. C., Parola, P., Million, M., Fournier, P. E., Raoult, D., & Gautret, P. (2021). Clinical outcomes in patients infected with different SARS-CoV-2 variants at one hospital during three phases of the COVID-19 epidemic in Marseille, France. Infection, Genetics and Evolution, 95, Article 105092. https://doi.org/10.1016/j.meegid.2021.105092
+Mohammadi, M., Saffari, M., Siadat, S. D., Hejazi, S. H., Shayestehpour, M., Motallebi, M., & Eidi, M. (2023). Isolation, characterization, therapeutic potency, and genomic analysis of a novel bacteriophage vB_KshKPC-M against carbapenemase-producing Klebsiella pneumoniae strains (CRKP) isolated from ventilator-associated pneumoniae (VAP) infection of COVID-19 patients. Annals of Clinical Microbiology and Antimicrobials, 22(1), Article 18. https://doi.org/10.1186/s12941-023-00567-1
+Sallam, M., & Mahafzah, A. (2021). Molecular analysis of SARS-CoV-2 genetic lineages in Jordan: Tracking the introduction and spread of COVID-19 UK variant of concern at a country level. Pathogens, 10(3), Article 302. https://doi.org/10.3390/pathogens10030302
+Wells, H. L., Letko, M., Lasso, G., Ssebide, B., Nziza, J., Byarugaba, D. K., Navarrete-Macias, I., Liang, E., Cranfield, M., Han, B. A., Tingley, M. W., Diuk-Wasser, M., Goldstein, T., Johnson, C. K., Mazet, J. A. K., Chandran, K., Munster, V. J., Gilardi, K., & Anthony, S. J. (2021). The evolutionary history of ACE2 usage within the coronavirus subgenus Sarbecovirus. Virus Evolution, 7(1), Article veab007. https://doi.org/10.1093/ve/veab007
+Azhar, E. I., Velavan, T. P., Rungsung, I., Traore, T., Hui, D. S., McCloskey, B., El-Kafrawy, S. A., & Zumla, A. (2023). Middle East respiratory syndrome coronavirus‚Äîa 10-year (2012-2022) global analysis of human and camel infections, genomic sequences, lineages, and geographical origins. International Journal of Infectious Diseases, 131, 87‚Äì94. https://doi.org/10.1016/j.ijid.2023.03.046
+Sondlane, H., Ogunbayo, A., Donato, C., Mogotsi, M., Esona, M., Hallbauer, U., Bester, P., Goedhals, D., & Nyaga, M. (2024). Whole genome molecular analysis of respiratory syncytial virus pre and during the COVID-19 pandemic in Free State province, South Africa. Virus Research, 347, Article 199421. https://doi.org/10.1016/j.virusres.2024.199421
+Choga, W. T., Gustani-Buss, E., Tegally, H., Maruapula, D., Yu, X., Moir, M., Zuze, B. J. L., James, S. E., Ndlovu, N. S., Seru, K., Motshosi, P., Blenkinsop, A., Gobe, I., Baxter, C., Manasa, J., Lockman, S., Shapiro, R., Makhema, J., Wilkinson, E., Blackard, J. T., Lemey, P., Lessells, R. J., Martin, D. P., de Oliveira, T., Gaseitsiwe, S., & Moyo, S. (2024). Emergence of Omicron FN.1 a descendent of BQ.1.1 in Botswana. Virus Evolution, 10(1), Article veae095. https://doi.org/10.1093/ve/veae095
+Shen, M., Ding, P., Luan, G., Du, T., & Deng, S. (2023). The antiviral activity of a small molecule drug targeting the NSP1-ribosome complex against Omicron, especially in elderly patients. Frontiers in Cellular and Infection Microbiology, 13, Article 1141274. https://doi.org/10.3389/fcimb.2023.1141274
+Thompson, A., Liebeskind, B. J., Scully, E. J., & Landis, M. J. (2024). Deep learning and likelihood approaches for viral phylogeography converge on the same answers whether the inference model is right or wrong. Systematic Biology, 73(1), 183‚Äì206. https://doi.org/10.1093/sysbio/syad074
+Mateus-Anzola, J., Mart√≠nez-L√≥pez, B., Espinosa-Garc√≠a, A. C., & Ojeda-Flores, R. (2022). Global subtype diversity, spatial distribution patterns, and phylogenetic analysis of avian influenza virus in water. Transboundary and Emerging Diseases, 69(4), e344‚Äìe355. https://doi.org/10.1111/tbed.14307
+Kolawole, D. B., & Okeke, M. I. (2022). Phylogenetic and genome-wide mutational analysis of SARS-CoV-2 strains circulating in Nigeria: No implications for attenuated COVID-19 outcomes. Osong Public Health and Research Perspectives, 13(2), 101‚Äì113. https://doi.org/10.24171/j.phrp.2021.0329
+Ren, L. L., Wang, Y. M., Wu, Z. Q., Xiang, Z. C., Guo, L., Xu, T., Jiang, Y. Z., Xiong, Y., Li, Y. J., Li, X. W., Li, H., Fan, G. H., Gu, X. Y., Xiao, Y., Gao, H., Xu, J. Y., Yang, F., Wang, X. M., Wu, C., Chen, L., Liu, Y. W., Liu, B., Yang, J., Wang, X. R., Dong, J., Li, L., Huang, C. L., Zhao, J. P., Hu, Y., Cheng, Z. S., Liu, L. L., Qian, Z. H., Qin, C., Jin, Q., Cao, B., & Wang, J. W. (2020). Identification of a novel coronavirus causing severe pneumonia in human: A descriptive study. Chinese Medical Journal, 133(9), 1015‚Äì1024. https://doi.org/10.1097/CM9.0000000000000722
+Bahoussi, A. N., Wang, P. H., Shah, P. T., Bu, H., Wu, C., & Xing, L. (2022). Evolutionary plasticity of zoonotic porcine Deltacoronavirus (PDCoV): Genetic characteristics and geographic distribution. BMC Veterinary Research, 18(1), Article 444. https://doi.org/10.1186/s12917-022-03554-4
+Saha, O., Hossain, M. S., & Rahaman, M. M. (2020). Genomic exploration light on multiple origin with potential parsimony-informative sites of the severe acute respiratory syndrome coronavirus 2 in Bangladesh. Gene Reports, 21, Article 100951. https://doi.org/10.1016/j.genrep.2020.100951
+Xia, H., Li, X., Zhao, W., Jia, S., Zhang, X., Irwin, D. M., & Zhang, S. (2020). Adaptive evolution of feline coronavirus genes based on selection analysis. BioMed Research International, 2020, Article 9089768. https://doi.org/10.1155/2020/9089768
+Suharsono, H., Mahardika, B. K., Sudipa, P. H., Sari, T. K., Suardana, I. B. K., & Mahardika, G. N. (2023). Consensus insertion/deletions and amino acid variations of all coding and noncoding regions of the SARS-CoV-2 Omicron clades, including the XBB and BQ.1 lineages. Archives of Virology, 168(6), Article 156. https://doi.org/10.1007/s00705-023-05787-6
+Tan, C. S., Noni, V., Sathiya Seelan, J. S., Denel, A., & Anwarali Khan, F. A. (2021). Ecological surveillance of bat coronaviruses in Sarawak, Malaysian Borneo. BMC Research Notes, 14(1), Article 461. https://doi.org/10.1186/s13104-021-05880-6
+Goya, S., Wendm, S. T., Xie, H., Nguyen, T. V., Barnes, S., Shankar, R. R., Sereewit, J., Cruz, K., P√©rez-Osorio, A. C., Mills, M. G., & Greninger, A. L. (2025). Genomic epidemiology and evolution of rhinovirus in Western Washington State, 2021-2022. Journal of Infectious Diseases, 231(1), e154‚Äìe164. https://doi.org/10.1093/infdis/jiae347
+Zhang, Y., Pan, Y., Zhao, X., Shi, W., Chen, Z., Zhang, S., Liu, P., Xiao, J., Tan, W., Wang, D., Liu, W. J., Xu, W., Wang, Q., & Wu, G. (2020). Genomic characterization of SARS-CoV-2 identified in a reemerging COVID-19 outbreak in Beijing‚Äôs Xinfadi market in 2020. Biosafety and Health, 2(4), 202‚Äì205. https://doi.org/10.1016/j.bsheal.2020.08.006
+Magee, A. F., Holbrook, A. J., Pekar, J. E., Caviedes-Solis, I. W., Matsen IV, F. A., Baele, G., Wertheim, J. O., Ji, X., Lemey, P., & Suchard, M. A. (2024). Random-effects substitution models for phylogenetics via scalable gradient approximations. Systematic Biology, 73(3), 562‚Äì578. https://doi.org/10.1093/sysbio/syae019
+Basheer, A., & Zahoor, I. (2021). Genomic epidemiology of SARS-CoV-2 divulge B.1, B.1.36, and B.1.1.7 as the most dominant lineages in first, second, and third wave of SARS-CoV-2 infections in Pakistan. Microorganisms, 9(12), Article 2609. https://doi.org/10.3390/microorganisms9122609
+Acu√±a-Castillo, C., Vidal, M., Vallejos-Vidal, E., Luraschi, R., Barrera-Avalos, C., Inostroza-Molina, A., Molina-Cabrera, S., Valdes, D., Schafer, C., Maisey, K., Imarai, M., Vera, R., Vargas, S., Rojo, L. E., Leiva-Salcedo, E., Escobar, A., Reyes-Cerpa, S., Gaete, A., Palma-Vejares, R., Travisany, D., Torres, C., Reyes-L√≥pez, F. E., & Sandino, A. M. (2024). A retrospective study suggests 55 days of persistence of SARS-CoV-2 during the first wave of the pandemic in Santiago de Chile. Heliyon, 10(7), Article e24419. https://doi.org/10.1016/j.heliyon.2024.e24419
+Cheng, S., Wu, H., & Chen, Z. (2020). Evolution of transmissible gastroenteritis virus (TGEV): A codon usage perspective. International Journal of Molecular Sciences, 21(21), Article 7898. https://doi.org/10.3390/ijms21217898
+Bahoussi, A. N., Shah, P. T., Guo, Y. Y., Liu, Y., Wu, C., & Xing, L. (2023). Evolutionary adaptation of bovine coronavirus (BCoV): Screening of natural recombinations across the complete genomes. Journal of Basic Microbiology, 63(5), 519‚Äì529. https://doi.org/10.1002/jobm.202200548
+Zhu, T., Li, L., Petridis, A., Xydis, G., & Ren, M. (2021). First report of Fusarium asiaticum causing stem rot of Ligusticum chuanxiong in China. Plant Disease. https://doi.org/10.1094/PDIS-05-21-1026-PDN
+Haddad-Boubaker, S., Arbi, M., Souiai, O., Chouikha, A., Fares, W., Edington, K., Sims, S., Camma, C., Lorusso, A., Diagne, M. M., Diallo, A., Boubaker, I. B. B., Ferjani, S., Mastouri, M., Mhalla, S., Karray, H., Gargouri, S., Bahri, O., Trabelsi, A., Kallala, O., Hannachi, N., Chaabouni, Y., Smaoui, H., Meftah, K., Bouhalila, S. B., Foughali, S., Zribi, M., Lamari, A., Touzi, H., Safer, M., Alaya, N. B., Kahla, A. B., Gdoura, M., & Triki, H. (2023). The Delta variant wave in Tunisia: Genetic diversity, spatio-temporal distribution and evidence of the spread of a divergent AY.122 sub-lineage. Frontiers in Public Health, 10, Article 990832. https://doi.org/10.3389/fpubh.2022.990832
+Liu, S., Pan, J., Chen, Y., Ye, L., Chen, E., Wen, X., Wu, W., Wu, B., Qi, X., Chan, T. C., Sun, W., Yu, Z., Zhang, T., & Yan, J. (2024). Human respiratory syncytial virus subgroups A and B outbreak in a kindergarten in Zhejiang Province, China, 2023. Frontiers in Public Health, 12, Article 1368744. https://doi.org/10.3389/fpubh.2024.1368744
+Wang, X., Walker, G., Kim, K. W., Stelzer-Braid, S., Scotch, M., & Rawlinson, W. D. (2024). The resurgence of influenza A/H3N2 virus in Australia after the relaxation of COVID-19 restrictions during the 2022 season. Journal of Medical Virology, 96(9), Article e29922. https://doi.org/10.1002/jmv.29922
+Nasrin, T., Samim Hassan, M., Iqbal, M., Yousif, A., Hoque, M., Ali, N., & Ali, S. (2024). Elucidating the evolution of monkeypox virus genomes through phylo-geo-network and haplogroup analysis. Journal of Genetic Engineering and Biotechnology, 22(1), Article 100346. https://doi.org/10.1016/j.jgeb.2023.100346
+Trinachartvanit, W., Kaenkan, W., Nooma, W., Jeangkhwoa, P., Rakthong, P., Baimai, V., & Ahantarig, A. (2022). Novel phlebovirus-like-AYUT and Stenotrophomonas maltophilia bacterial co-infection in a Rhipicephalus sanguineus s.l. tick. Veterinary Research Communications, 46(1), 277‚Äì282. https://doi.org/10.1007/s11259-021-09855-7
+Paraskevis, D., Kostaki, E. G., Magiorkinis, G., Panayiotakopoulos, G., Sourvinos, G., & Tsiodras, S. (2020). Full-genome evolutionary analysis of the novel corona virus (2019-nCoV) rejects the hypothesis of emergence as a result of a recent recombination event. Infection, Genetics and Evolution, 79, Article 104212. https://doi.org/10.1016/j.meegid.2020.104212
+Chi, M., Katuwal, N., Shrestha, A., Madhup, S. K., Tamrakar, D., & Shrestha, R. (2025). Whole genome sequencing and phylogenetic analysis of dengue virus in Central Nepal from 2022 to 2023. BMC Global and Public Health, 3(1), Article 18. https://doi.org/10.1186/s44263-025-00135-z
+Chow, N., Long, T., Lee, L. K., Wong, I. T., Lee, A. W., Tam, W. Y., Wong, H. F., Leung, J. S., Chow, F. W., Luk, K. S., Ho, A. Y., Lam, J. Y., Yau, M. C., Que, T. L., Yip, K. T., Chow, V. C., Wong, R. C., Mok, B. W., Chen, H. L., & Siu, G. K. (2024). Transmission patterns of co-circulation of Omicron sub-lineages in Hong Kong SAR, China, a city with rigorous social distancing measures, in 2022. Viruses, 16(6), Article 981. https://doi.org/10.3390/v16060981
+Hikmat, H., Le Targa, L., Boschi, C., Py, J., Morand, A., Lagier, J. C., Aherfi, S., Fantini, J., La Scola, B., & Colson, P. (2025). Five-year (2017-2022) evolutionary dynamics of human coronavirus HKU1 in Southern France with emergence of viruses harboring spike H512R substitution. Journal of Medical Virology, 97(2), Article e70217. https://doi.org/10.1002/jmv.70217
+Soheili, M., Haji-Allahverdipoor, K., Khadem-Erfan, M. B., Baban, B., Nikkhoo, B., Eliasi, A., & Nasseri, S. (2020). Combination of C21 and ARBs with rhACE2 as a therapeutic protocol: A new promising approach for treating ARDS in patients with coronavirus infection. Medical Journal of the Islamic Republic of Iran, 34, Article 120. https://doi.org/10.34171/mjiri.34.120
+El-Far, S. W., & Abukhatwah, M. W. (2023). Prevalence of aminoglycoside resistance genes in clinical isolates of Pseudomonas aeruginosa from Taif, Saudi Arabia‚Äîan emergence indicative study. Microorganisms, 11(9), Article 2293. https://doi.org/10.3390/microorganisms11092293
+Uez, O., Culasso, A., Lerman, A., Cimmino, C., Campos, R., & Marcone, D. N. (2025). Genetic diversity and impact of vaccination on influenza A (H1N1)pdm09 in Mar del Plata, Argentina: A 2015-2020 molecular epidemiological study. Infectious Diseases. https://doi.org/10.1080/23744235.2025.2466118
+Oz, M. E., Avci, O., & Dogan, M. (2025). Factors influencing the prevalence of acute bee paralysis virus in Apis mellifera and insights into its phylogenetic relationships. Virus Genes. https://doi.org/10.1007/s11262-025-02135-5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
